@@ -1,0 +1,9 @@
+{
+    "path" : "~/RegionalClustering/NUTS_2010_60M_SH/Data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

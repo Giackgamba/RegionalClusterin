@@ -1,0 +1,1907 @@
+pOccHT=;%Occupazione in settori af Alta Tecnologia;;;;
+;;;;;
+GEO;DENOGEO;NUTS1;Stato;anno;pOccHT
+AT11;Burgenland (AT);AT;Austria;2008;
+AT11;Burgenland (AT);AT;Austria;2009;
+AT11;Burgenland (AT);AT;Austria;2010;2,5
+AT11;Burgenland (AT);AT;Austria;2011;3,4
+AT11;Burgenland (AT);AT;Austria;2012;3,1
+AT11;Burgenland (AT);AT;Austria;2013;
+AT11;Burgenland (AT);AT;Austria;2014;2,3
+AT12;Niederösterreich;AT;Austria;2008;3,5
+AT12;Niederösterreich;AT;Austria;2009;3,8
+AT12;Niederösterreich;AT;Austria;2010;3,4
+AT12;Niederösterreich;AT;Austria;2011;3,4
+AT12;Niederösterreich;AT;Austria;2012;3,3
+AT12;Niederösterreich;AT;Austria;2013;3,4
+AT12;Niederösterreich;AT;Austria;2014;4,2
+AT13;Wien;AT;Austria;2008;5,7
+AT13;Wien;AT;Austria;2009;6,6
+AT13;Wien;AT;Austria;2010;6,8
+AT13;Wien;AT;Austria;2011;6,2
+AT13;Wien;AT;Austria;2012;5,8
+AT13;Wien;AT;Austria;2013;6,9
+AT13;Wien;AT;Austria;2014;7,5
+AT21;Kärnten;AT;Austria;2008;3,7
+AT21;Kärnten;AT;Austria;2009;3,5
+AT21;Kärnten;AT;Austria;2010;3,5
+AT21;Kärnten;AT;Austria;2011;3,9
+AT21;Kärnten;AT;Austria;2012;3,8
+AT21;Kärnten;AT;Austria;2013;3,7
+AT21;Kärnten;AT;Austria;2014;3,2
+AT22;Steiermark;AT;Austria;2008;2,9
+AT22;Steiermark;AT;Austria;2009;3,2
+AT22;Steiermark;AT;Austria;2010;3,2
+AT22;Steiermark;AT;Austria;2011;2,5
+AT22;Steiermark;AT;Austria;2012;2,6
+AT22;Steiermark;AT;Austria;2013;3
+AT22;Steiermark;AT;Austria;2014;3,2
+AT31;Oberösterreich;AT;Austria;2008;2,7
+AT31;Oberösterreich;AT;Austria;2009;2,1
+AT31;Oberösterreich;AT;Austria;2010;2,3
+AT31;Oberösterreich;AT;Austria;2011;2,3
+AT31;Oberösterreich;AT;Austria;2012;2,6
+AT31;Oberösterreich;AT;Austria;2013;2,7
+AT31;Oberösterreich;AT;Austria;2014;2,8
+AT32;Salzburg;AT;Austria;2008;2,5
+AT32;Salzburg;AT;Austria;2009;2,4
+AT32;Salzburg;AT;Austria;2010;2,5
+AT32;Salzburg;AT;Austria;2011;2,4
+AT32;Salzburg;AT;Austria;2012;2,7
+AT32;Salzburg;AT;Austria;2013;2,8
+AT32;Salzburg;AT;Austria;2014;2,5
+AT33;Tirol;AT;Austria;2008;3,1
+AT33;Tirol;AT;Austria;2009;3,1
+AT33;Tirol;AT;Austria;2010;2,8
+AT33;Tirol;AT;Austria;2011;3
+AT33;Tirol;AT;Austria;2012;3,4
+AT33;Tirol;AT;Austria;2013;3,4
+AT33;Tirol;AT;Austria;2014;3,6
+AT34;Vorarlberg;AT;Austria;2008;2,4
+AT34;Vorarlberg;AT;Austria;2009;2,6
+AT34;Vorarlberg;AT;Austria;2010;2,6
+AT34;Vorarlberg;AT;Austria;2011;2,6
+AT34;Vorarlberg;AT;Austria;2012;2,5
+AT34;Vorarlberg;AT;Austria;2013;2,4
+AT34;Vorarlberg;AT;Austria;2014;2,5
+BE10;Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest;BE;Belgio;2008;6,4
+BE10;Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest;BE;Belgio;2009;5,8
+BE10;Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest;BE;Belgio;2010;7,1
+BE10;Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest;BE;Belgio;2011;6,4
+BE10;Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest;BE;Belgio;2012;7
+BE10;Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest;BE;Belgio;2013;5,6
+BE10;Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest;BE;Belgio;2014;6,3
+BE21;Prov. Antwerpen;BE;Belgio;2008;4,7
+BE21;Prov. Antwerpen;BE;Belgio;2009;5,4
+BE21;Prov. Antwerpen;BE;Belgio;2010;5,9
+BE21;Prov. Antwerpen;BE;Belgio;2011;5,4
+BE21;Prov. Antwerpen;BE;Belgio;2012;5,7
+BE21;Prov. Antwerpen;BE;Belgio;2013;5,3
+BE21;Prov. Antwerpen;BE;Belgio;2014;5,3
+BE22;Prov. Limburg (BE);BE;Belgio;2008;3,2
+BE22;Prov. Limburg (BE);BE;Belgio;2009;3,2
+BE22;Prov. Limburg (BE);BE;Belgio;2010;3,3
+BE22;Prov. Limburg (BE);BE;Belgio;2011;2,9
+BE22;Prov. Limburg (BE);BE;Belgio;2012;3,3
+BE22;Prov. Limburg (BE);BE;Belgio;2013;3
+BE22;Prov. Limburg (BE);BE;Belgio;2014;2,9
+BE23;Prov. Oost-Vlaanderen;BE;Belgio;2008;3,7
+BE23;Prov. Oost-Vlaanderen;BE;Belgio;2009;3,6
+BE23;Prov. Oost-Vlaanderen;BE;Belgio;2010;4
+BE23;Prov. Oost-Vlaanderen;BE;Belgio;2011;3,9
+BE23;Prov. Oost-Vlaanderen;BE;Belgio;2012;3,7
+BE23;Prov. Oost-Vlaanderen;BE;Belgio;2013;4,3
+BE23;Prov. Oost-Vlaanderen;BE;Belgio;2014;4,1
+BE24;Prov. Vlaams-Brabant;BE;Belgio;2008;6,3
+BE24;Prov. Vlaams-Brabant;BE;Belgio;2009;6,7
+BE24;Prov. Vlaams-Brabant;BE;Belgio;2010;7
+BE24;Prov. Vlaams-Brabant;BE;Belgio;2011;6,6
+BE24;Prov. Vlaams-Brabant;BE;Belgio;2012;7,1
+BE24;Prov. Vlaams-Brabant;BE;Belgio;2013;6,2
+BE24;Prov. Vlaams-Brabant;BE;Belgio;2014;6,1
+BE25;Prov. West-Vlaanderen;BE;Belgio;2008;2,6
+BE25;Prov. West-Vlaanderen;BE;Belgio;2009;2,3
+BE25;Prov. West-Vlaanderen;BE;Belgio;2010;2,3
+BE25;Prov. West-Vlaanderen;BE;Belgio;2011;2,6
+BE25;Prov. West-Vlaanderen;BE;Belgio;2012;2,7
+BE25;Prov. West-Vlaanderen;BE;Belgio;2013;2,9
+BE25;Prov. West-Vlaanderen;BE;Belgio;2014;2,3
+BE31;Prov. Brabant Wallon;BE;Belgio;2008;9,9
+BE31;Prov. Brabant Wallon;BE;Belgio;2009;9,1
+BE31;Prov. Brabant Wallon;BE;Belgio;2010;8,9
+BE31;Prov. Brabant Wallon;BE;Belgio;2011;10,1
+BE31;Prov. Brabant Wallon;BE;Belgio;2012;9,2
+BE31;Prov. Brabant Wallon;BE;Belgio;2013;7,7
+BE31;Prov. Brabant Wallon;BE;Belgio;2014;8,2
+BE32;Prov. Hainaut;BE;Belgio;2008;3,9
+BE32;Prov. Hainaut;BE;Belgio;2009;3,4
+BE32;Prov. Hainaut;BE;Belgio;2010;3,4
+BE32;Prov. Hainaut;BE;Belgio;2011;3,7
+BE32;Prov. Hainaut;BE;Belgio;2012;3,7
+BE32;Prov. Hainaut;BE;Belgio;2013;3,3
+BE32;Prov. Hainaut;BE;Belgio;2014;3,5
+BE33;Prov. Liège;BE;Belgio;2008;2,9
+BE33;Prov. Liège;BE;Belgio;2009;3,8
+BE33;Prov. Liège;BE;Belgio;2010;3,1
+BE33;Prov. Liège;BE;Belgio;2011;3,6
+BE33;Prov. Liège;BE;Belgio;2012;3,2
+BE33;Prov. Liège;BE;Belgio;2013;2,9
+BE33;Prov. Liège;BE;Belgio;2014;3,4
+BE34;Prov. Luxembourg (BE);BE;Belgio;2008;2,9
+BE34;Prov. Luxembourg (BE);BE;Belgio;2009;3,3
+BE34;Prov. Luxembourg (BE);BE;Belgio;2010;3,2
+BE34;Prov. Luxembourg (BE);BE;Belgio;2011;2,6
+BE34;Prov. Luxembourg (BE);BE;Belgio;2012;3,2
+BE34;Prov. Luxembourg (BE);BE;Belgio;2013;2,7
+BE34;Prov. Luxembourg (BE);BE;Belgio;2014;3
+BE35;Prov. Namur;BE;Belgio;2008;4,1
+BE35;Prov. Namur;BE;Belgio;2009;4
+BE35;Prov. Namur;BE;Belgio;2010;4,8
+BE35;Prov. Namur;BE;Belgio;2011;5,1
+BE35;Prov. Namur;BE;Belgio;2012;4,2
+BE35;Prov. Namur;BE;Belgio;2013;4,9
+BE35;Prov. Namur;BE;Belgio;2014;3,5
+BG31;Severozapaden;BG;Bulgaria;2008;2,6
+BG31;Severozapaden;BG;Bulgaria;2009;2
+BG31;Severozapaden;BG;Bulgaria;2010;
+BG31;Severozapaden;BG;Bulgaria;2011;
+BG31;Severozapaden;BG;Bulgaria;2012;
+BG31;Severozapaden;BG;Bulgaria;2013;2
+BG31;Severozapaden;BG;Bulgaria;2014;2,8
+BG32;Severen tsentralen;BG;Bulgaria;2008;2,3
+BG32;Severen tsentralen;BG;Bulgaria;2009;2,2
+BG32;Severen tsentralen;BG;Bulgaria;2010;
+BG32;Severen tsentralen;BG;Bulgaria;2011;3
+BG32;Severen tsentralen;BG;Bulgaria;2012;
+BG32;Severen tsentralen;BG;Bulgaria;2013;2,5
+BG32;Severen tsentralen;BG;Bulgaria;2014;
+BG33;Severoiztochen;BG;Bulgaria;2008;
+BG33;Severoiztochen;BG;Bulgaria;2009;1,5
+BG33;Severoiztochen;BG;Bulgaria;2010;1,7
+BG33;Severoiztochen;BG;Bulgaria;2011;1,8
+BG33;Severoiztochen;BG;Bulgaria;2012;2,2
+BG33;Severoiztochen;BG;Bulgaria;2013;
+BG33;Severoiztochen;BG;Bulgaria;2014;
+BG34;Yugoiztochen;BG;Bulgaria;2008;1,1
+BG34;Yugoiztochen;BG;Bulgaria;2009;1,4
+BG34;Yugoiztochen;BG;Bulgaria;2010;
+BG34;Yugoiztochen;BG;Bulgaria;2011;1,9
+BG34;Yugoiztochen;BG;Bulgaria;2012;
+BG34;Yugoiztochen;BG;Bulgaria;2013;1,5
+BG34;Yugoiztochen;BG;Bulgaria;2014;
+BG41;Yugozapaden;BG;Bulgaria;2008;5,8
+BG41;Yugozapaden;BG;Bulgaria;2009;5,4
+BG41;Yugozapaden;BG;Bulgaria;2010;5,4
+BG41;Yugozapaden;BG;Bulgaria;2011;5,6
+BG41;Yugozapaden;BG;Bulgaria;2012;5,9
+BG41;Yugozapaden;BG;Bulgaria;2013;7
+BG41;Yugozapaden;BG;Bulgaria;2014;6,7
+BG42;Yuzhen tsentralen;BG;Bulgaria;2008;1,7
+BG42;Yuzhen tsentralen;BG;Bulgaria;2009;1,8
+BG42;Yuzhen tsentralen;BG;Bulgaria;2010;1,6
+BG42;Yuzhen tsentralen;BG;Bulgaria;2011;1,6
+BG42;Yuzhen tsentralen;BG;Bulgaria;2012;1,6
+BG42;Yuzhen tsentralen;BG;Bulgaria;2013;2,6
+BG42;Yuzhen tsentralen;BG;Bulgaria;2014;1,5
+CY00;Kypros;CY;Cipro;2008;2,9
+CY00;Kypros;CY;Cipro;2009;2,5
+CY00;Kypros;CY;Cipro;2010;2,2
+CY00;Kypros;CY;Cipro;2011;2,5
+CY00;Kypros;CY;Cipro;2012;2,9
+CY00;Kypros;CY;Cipro;2013;2,6
+CY00;Kypros;CY;Cipro;2014;2,9
+CZ01;Praha;CZ;RepubblicaCeca;2008;7,6
+CZ01;Praha;CZ;RepubblicaCeca;2009;8,1
+CZ01;Praha;CZ;RepubblicaCeca;2010;8
+CZ01;Praha;CZ;RepubblicaCeca;2011;8,7
+CZ01;Praha;CZ;RepubblicaCeca;2012;7,9
+CZ01;Praha;CZ;RepubblicaCeca;2013;9,1
+CZ01;Praha;CZ;RepubblicaCeca;2014;8,6
+CZ02;Strední Cechy;CZ;RepubblicaCeca;2008;3,7
+CZ02;Strední Cechy;CZ;RepubblicaCeca;2009;4,1
+CZ02;Strední Cechy;CZ;RepubblicaCeca;2010;4,1
+CZ02;Strední Cechy;CZ;RepubblicaCeca;2011;4,9
+CZ02;Strední Cechy;CZ;RepubblicaCeca;2012;5,2
+CZ02;Strední Cechy;CZ;RepubblicaCeca;2013;4,6
+CZ02;Strední Cechy;CZ;RepubblicaCeca;2014;4,6
+CZ03;Jihozápad;CZ;RepubblicaCeca;2008;3,8
+CZ03;Jihozápad;CZ;RepubblicaCeca;2009;3,7
+CZ03;Jihozápad;CZ;RepubblicaCeca;2010;3,5
+CZ03;Jihozápad;CZ;RepubblicaCeca;2011;3,7
+CZ03;Jihozápad;CZ;RepubblicaCeca;2012;3
+CZ03;Jihozápad;CZ;RepubblicaCeca;2013;2,8
+CZ03;Jihozápad;CZ;RepubblicaCeca;2014;3,1
+CZ04;Severozápad;CZ;RepubblicaCeca;2008;2,4
+CZ04;Severozápad;CZ;RepubblicaCeca;2009;2,6
+CZ04;Severozápad;CZ;RepubblicaCeca;2010;2,4
+CZ04;Severozápad;CZ;RepubblicaCeca;2011;2,2
+CZ04;Severozápad;CZ;RepubblicaCeca;2012;1,9
+CZ04;Severozápad;CZ;RepubblicaCeca;2013;2,5
+CZ04;Severozápad;CZ;RepubblicaCeca;2014;2,2
+CZ05;Severovýchod;CZ;RepubblicaCeca;2008;3,4
+CZ05;Severovýchod;CZ;RepubblicaCeca;2009;3,3
+CZ05;Severovýchod;CZ;RepubblicaCeca;2010;3,9
+CZ05;Severovýchod;CZ;RepubblicaCeca;2011;4,4
+CZ05;Severovýchod;CZ;RepubblicaCeca;2012;4,8
+CZ05;Severovýchod;CZ;RepubblicaCeca;2013;4,2
+CZ05;Severovýchod;CZ;RepubblicaCeca;2014;4,1
+CZ06;Jihovýchod;CZ;RepubblicaCeca;2008;3,6
+CZ06;Jihovýchod;CZ;RepubblicaCeca;2009;3,8
+CZ06;Jihovýchod;CZ;RepubblicaCeca;2010;4,6
+CZ06;Jihovýchod;CZ;RepubblicaCeca;2011;4,2
+CZ06;Jihovýchod;CZ;RepubblicaCeca;2012;4,3
+CZ06;Jihovýchod;CZ;RepubblicaCeca;2013;5,7
+CZ06;Jihovýchod;CZ;RepubblicaCeca;2014;5,4
+CZ07;Strední Morava;CZ;RepubblicaCeca;2008;2,7
+CZ07;Strední Morava;CZ;RepubblicaCeca;2009;3
+CZ07;Strední Morava;CZ;RepubblicaCeca;2010;3,1
+CZ07;Strední Morava;CZ;RepubblicaCeca;2011;3,7
+CZ07;Strední Morava;CZ;RepubblicaCeca;2012;3,6
+CZ07;Strední Morava;CZ;RepubblicaCeca;2013;3,8
+CZ07;Strední Morava;CZ;RepubblicaCeca;2014;3,3
+CZ08;Moravskoslezsko;CZ;RepubblicaCeca;2008;3
+CZ08;Moravskoslezsko;CZ;RepubblicaCeca;2009;3
+CZ08;Moravskoslezsko;CZ;RepubblicaCeca;2010;4
+CZ08;Moravskoslezsko;CZ;RepubblicaCeca;2011;3,3
+CZ08;Moravskoslezsko;CZ;RepubblicaCeca;2012;3,2
+CZ08;Moravskoslezsko;CZ;RepubblicaCeca;2013;3,9
+CZ08;Moravskoslezsko;CZ;RepubblicaCeca;2014;2,9
+DE11;Stuttgart;DE;Germania;2008;4
+DE11;Stuttgart;DE;Germania;2009;5,6
+DE11;Stuttgart;DE;Germania;2010;4,4
+DE11;Stuttgart;DE;Germania;2011;5,6
+DE11;Stuttgart;DE;Germania;2012;4,6
+DE11;Stuttgart;DE;Germania;2013;4,3
+DE11;Stuttgart;DE;Germania;2014;4,5
+DE12;Karlsruhe;DE;Germania;2008;6,5
+DE12;Karlsruhe;DE;Germania;2009;5
+DE12;Karlsruhe;DE;Germania;2010;7,8
+DE12;Karlsruhe;DE;Germania;2011;6,6
+DE12;Karlsruhe;DE;Germania;2012;6,2
+DE12;Karlsruhe;DE;Germania;2013;5,8
+DE12;Karlsruhe;DE;Germania;2014;5,7
+DE13;Freiburg;DE;Germania;2008;5,7
+DE13;Freiburg;DE;Germania;2009;
+DE13;Freiburg;DE;Germania;2010;
+DE13;Freiburg;DE;Germania;2011;5,1
+DE13;Freiburg;DE;Germania;2012;5,4
+DE13;Freiburg;DE;Germania;2013;5,5
+DE13;Freiburg;DE;Germania;2014;5,6
+DE14;Tübingen;DE;Germania;2008;
+DE14;Tübingen;DE;Germania;2009;5,4
+DE14;Tübingen;DE;Germania;2010;
+DE14;Tübingen;DE;Germania;2011;6,3
+DE14;Tübingen;DE;Germania;2012;5,6
+DE14;Tübingen;DE;Germania;2013;5,8
+DE14;Tübingen;DE;Germania;2014;4,8
+DE21;Oberbayern;DE;Germania;2008;8,2
+DE21;Oberbayern;DE;Germania;2009;7,9
+DE21;Oberbayern;DE;Germania;2010;6,1
+DE21;Oberbayern;DE;Germania;2011;7,6
+DE21;Oberbayern;DE;Germania;2012;7,8
+DE21;Oberbayern;DE;Germania;2013;7,4
+DE21;Oberbayern;DE;Germania;2014;7
+DE22;Niederbayern;DE;Germania;2008;
+DE22;Niederbayern;DE;Germania;2009;
+DE22;Niederbayern;DE;Germania;2010;
+DE22;Niederbayern;DE;Germania;2011;
+DE22;Niederbayern;DE;Germania;2012;2,6
+DE22;Niederbayern;DE;Germania;2013;2,5
+DE22;Niederbayern;DE;Germania;2014;2,6
+DE23;Oberpfalz;DE;Germania;2008;
+DE23;Oberpfalz;DE;Germania;2009;
+DE23;Oberpfalz;DE;Germania;2010;
+DE23;Oberpfalz;DE;Germania;2011;
+DE23;Oberpfalz;DE;Germania;2012;4,3
+DE23;Oberpfalz;DE;Germania;2013;4,5
+DE23;Oberpfalz;DE;Germania;2014;4,6
+DE24;Oberfranken;DE;Germania;2008;
+DE24;Oberfranken;DE;Germania;2009;
+DE24;Oberfranken;DE;Germania;2010;
+DE24;Oberfranken;DE;Germania;2011;
+DE24;Oberfranken;DE;Germania;2012;2,5
+DE24;Oberfranken;DE;Germania;2013;3,2
+DE24;Oberfranken;DE;Germania;2014;2,9
+DE25;Mittelfranken;DE;Germania;2008;
+DE25;Mittelfranken;DE;Germania;2009;5,7
+DE25;Mittelfranken;DE;Germania;2010;
+DE25;Mittelfranken;DE;Germania;2011;
+DE25;Mittelfranken;DE;Germania;2012;4,8
+DE25;Mittelfranken;DE;Germania;2013;5,1
+DE25;Mittelfranken;DE;Germania;2014;5,2
+DE26;Unterfranken;DE;Germania;2008;
+DE26;Unterfranken;DE;Germania;2009;
+DE26;Unterfranken;DE;Germania;2010;
+DE26;Unterfranken;DE;Germania;2011;
+DE26;Unterfranken;DE;Germania;2012;3,2
+DE26;Unterfranken;DE;Germania;2013;3,5
+DE26;Unterfranken;DE;Germania;2014;2,9
+DE27;Schwaben;DE;Germania;2008;
+DE27;Schwaben;DE;Germania;2009;
+DE27;Schwaben;DE;Germania;2010;
+DE27;Schwaben;DE;Germania;2011;
+DE27;Schwaben;DE;Germania;2012;3,5
+DE27;Schwaben;DE;Germania;2013;3,5
+DE27;Schwaben;DE;Germania;2014;3,7
+DE30;Berlin;DE;Germania;2008;6,4
+DE30;Berlin;DE;Germania;2009;6,8
+DE30;Berlin;DE;Germania;2010;7,1
+DE30;Berlin;DE;Germania;2011;5,6
+DE30;Berlin;DE;Germania;2012;7,4
+DE30;Berlin;DE;Germania;2013;7
+DE30;Berlin;DE;Germania;2014;7
+DE40;Brandenburg;DE;Germania;2008;
+DE40;Brandenburg;DE;Germania;2009;
+DE40;Brandenburg;DE;Germania;2010;
+DE40;Brandenburg;DE;Germania;2011;
+DE40;Brandenburg;DE;Germania;2012;3,2
+DE40;Brandenburg;DE;Germania;2013;2,9
+DE40;Brandenburg;DE;Germania;2014;3,1
+DE50;Bremen;DE;Germania;2008;
+DE50;Bremen;DE;Germania;2009;
+DE50;Bremen;DE;Germania;2010;
+DE50;Bremen;DE;Germania;2011;
+DE50;Bremen;DE;Germania;2012;3,5
+DE50;Bremen;DE;Germania;2013;3,3
+DE50;Bremen;DE;Germania;2014;3,6
+DE60;Hamburg;DE;Germania;2008;6,3
+DE60;Hamburg;DE;Germania;2009;
+DE60;Hamburg;DE;Germania;2010;
+DE60;Hamburg;DE;Germania;2011;
+DE60;Hamburg;DE;Germania;2012;5,1
+DE60;Hamburg;DE;Germania;2013;5,6
+DE60;Hamburg;DE;Germania;2014;5,2
+DE71;Darmstadt;DE;Germania;2008;5,7
+DE71;Darmstadt;DE;Germania;2009;6,7
+DE71;Darmstadt;DE;Germania;2010;6,6
+DE71;Darmstadt;DE;Germania;2011;4,9
+DE71;Darmstadt;DE;Germania;2012;6,5
+DE71;Darmstadt;DE;Germania;2013;5,9
+DE71;Darmstadt;DE;Germania;2014;6,1
+DE72;Gießen;DE;Germania;2008;
+DE72;Gießen;DE;Germania;2009;
+DE72;Gießen;DE;Germania;2010;
+DE72;Gießen;DE;Germania;2011;
+DE72;Gießen;DE;Germania;2012;5
+DE72;Gießen;DE;Germania;2013;4,6
+DE72;Gießen;DE;Germania;2014;4,7
+DE73;Kassel;DE;Germania;2008;
+DE73;Kassel;DE;Germania;2009;
+DE73;Kassel;DE;Germania;2010;
+DE73;Kassel;DE;Germania;2011;
+DE73;Kassel;DE;Germania;2012;2,8
+DE73;Kassel;DE;Germania;2013;2,5
+DE73;Kassel;DE;Germania;2014;2,4
+DE80;Mecklenburg-Vorpommern;DE;Germania;2008;
+DE80;Mecklenburg-Vorpommern;DE;Germania;2009;
+DE80;Mecklenburg-Vorpommern;DE;Germania;2010;
+DE80;Mecklenburg-Vorpommern;DE;Germania;2011;
+DE80;Mecklenburg-Vorpommern;DE;Germania;2012;1,9
+DE80;Mecklenburg-Vorpommern;DE;Germania;2013;2,1
+DE80;Mecklenburg-Vorpommern;DE;Germania;2014;2,3
+DE91;Braunschweig;DE;Germania;2008;
+DE91;Braunschweig;DE;Germania;2009;
+DE91;Braunschweig;DE;Germania;2010;
+DE91;Braunschweig;DE;Germania;2011;
+DE91;Braunschweig;DE;Germania;2012;3,4
+DE91;Braunschweig;DE;Germania;2013;3,4
+DE91;Braunschweig;DE;Germania;2014;3,9
+DE92;Hannover;DE;Germania;2008;
+DE92;Hannover;DE;Germania;2009;
+DE92;Hannover;DE;Germania;2010;
+DE92;Hannover;DE;Germania;2011;
+DE92;Hannover;DE;Germania;2012;3,3
+DE92;Hannover;DE;Germania;2013;3,4
+DE92;Hannover;DE;Germania;2014;3,3
+DE93;Lüneburg;DE;Germania;2008;
+DE93;Lüneburg;DE;Germania;2009;
+DE93;Lüneburg;DE;Germania;2010;
+DE93;Lüneburg;DE;Germania;2011;
+DE93;Lüneburg;DE;Germania;2012;2,6
+DE93;Lüneburg;DE;Germania;2013;2,2
+DE93;Lüneburg;DE;Germania;2014;2,2
+DE94;Weser-Ems;DE;Germania;2008;
+DE94;Weser-Ems;DE;Germania;2009;
+DE94;Weser-Ems;DE;Germania;2010;
+DE94;Weser-Ems;DE;Germania;2011;
+DE94;Weser-Ems;DE;Germania;2012;1,7
+DE94;Weser-Ems;DE;Germania;2013;1,5
+DE94;Weser-Ems;DE;Germania;2014;1,7
+DEA1;Düsseldorf;DE;Germania;2008;3,9
+DEA1;Düsseldorf;DE;Germania;2009;4
+DEA1;Düsseldorf;DE;Germania;2010;4,3
+DEA1;Düsseldorf;DE;Germania;2011;3,8
+DEA1;Düsseldorf;DE;Germania;2012;3,9
+DEA1;Düsseldorf;DE;Germania;2013;3,4
+DEA1;Düsseldorf;DE;Germania;2014;3,5
+DEA2;Köln;DE;Germania;2008;4,5
+DEA2;Köln;DE;Germania;2009;5,6
+DEA2;Köln;DE;Germania;2010;5,8
+DEA2;Köln;DE;Germania;2011;5,7
+DEA2;Köln;DE;Germania;2012;5,7
+DEA2;Köln;DE;Germania;2013;5,5
+DEA2;Köln;DE;Germania;2014;5,6
+DEA3;Münster;DE;Germania;2008;
+DEA3;Münster;DE;Germania;2009;
+DEA3;Münster;DE;Germania;2010;
+DEA3;Münster;DE;Germania;2011;
+DEA3;Münster;DE;Germania;2012;2,6
+DEA3;Münster;DE;Germania;2013;2,3
+DEA3;Münster;DE;Germania;2014;2
+DEA4;Detmold;DE;Germania;2008;
+DEA4;Detmold;DE;Germania;2009;
+DEA4;Detmold;DE;Germania;2010;
+DEA4;Detmold;DE;Germania;2011;
+DEA4;Detmold;DE;Germania;2012;3,5
+DEA4;Detmold;DE;Germania;2013;3,3
+DEA4;Detmold;DE;Germania;2014;3,5
+DEA5;Arnsberg;DE;Germania;2008;3,1
+DEA5;Arnsberg;DE;Germania;2009;
+DEA5;Arnsberg;DE;Germania;2010;3,5
+DEA5;Arnsberg;DE;Germania;2011;
+DEA5;Arnsberg;DE;Germania;2012;2,9
+DEA5;Arnsberg;DE;Germania;2013;2,8
+DEA5;Arnsberg;DE;Germania;2014;2,8
+DEB1;Koblenz;DE;Germania;2008;
+DEB1;Koblenz;DE;Germania;2009;
+DEB1;Koblenz;DE;Germania;2010;
+DEB1;Koblenz;DE;Germania;2011;
+DEB1;Koblenz;DE;Germania;2012;2,9
+DEB1;Koblenz;DE;Germania;2013;2,6
+DEB1;Koblenz;DE;Germania;2014;2,5
+DEB2;Trier;DE;Germania;2008;
+DEB2;Trier;DE;Germania;2009;
+DEB2;Trier;DE;Germania;2010;
+DEB2;Trier;DE;Germania;2011;
+DEB2;Trier;DE;Germania;2012;2,9
+DEB2;Trier;DE;Germania;2013;2,3
+DEB2;Trier;DE;Germania;2014;2,2
+DEB3;Rheinhessen-Pfalz;DE;Germania;2008;5,1
+DEB3;Rheinhessen-Pfalz;DE;Germania;2009;
+DEB3;Rheinhessen-Pfalz;DE;Germania;2010;
+DEB3;Rheinhessen-Pfalz;DE;Germania;2011;
+DEB3;Rheinhessen-Pfalz;DE;Germania;2012;4,5
+DEB3;Rheinhessen-Pfalz;DE;Germania;2013;4,7
+DEB3;Rheinhessen-Pfalz;DE;Germania;2014;4,4
+DEC0;Saarland;DE;Germania;2008;
+DEC0;Saarland;DE;Germania;2009;
+DEC0;Saarland;DE;Germania;2010;
+DEC0;Saarland;DE;Germania;2011;
+DEC0;Saarland;DE;Germania;2012;3,2
+DEC0;Saarland;DE;Germania;2013;2,1
+DEC0;Saarland;DE;Germania;2014;2,8
+DED2;Dresden;DE;Germania;2008;
+DED2;Dresden;DE;Germania;2009;
+DED2;Dresden;DE;Germania;2010;
+DED2;Dresden;DE;Germania;2011;
+DED2;Dresden;DE;Germania;2012;5,2
+DED2;Dresden;DE;Germania;2013;4,4
+DED2;Dresden;DE;Germania;2014;4,3
+DED4;Chemnitz;DE;Germania;2008;
+DED4;Chemnitz;DE;Germania;2009;
+DED4;Chemnitz;DE;Germania;2010;
+DED4;Chemnitz;DE;Germania;2011;
+DED4;Chemnitz;DE;Germania;2012;2,5
+DED4;Chemnitz;DE;Germania;2013;2,6
+DED4;Chemnitz;DE;Germania;2014;2,6
+DED5;Leipzig;DE;Germania;2008;
+DED5;Leipzig;DE;Germania;2009;
+DED5;Leipzig;DE;Germania;2010;
+DED5;Leipzig;DE;Germania;2011;
+DED5;Leipzig;DE;Germania;2012;4,7
+DED5;Leipzig;DE;Germania;2013;4,3
+DED5;Leipzig;DE;Germania;2014;4,2
+DEE0;Sachsen-Anhalt;DE;Germania;2008;
+DEE0;Sachsen-Anhalt;DE;Germania;2009;
+DEE0;Sachsen-Anhalt;DE;Germania;2010;
+DEE0;Sachsen-Anhalt;DE;Germania;2011;
+DEE0;Sachsen-Anhalt;DE;Germania;2012;2,1
+DEE0;Sachsen-Anhalt;DE;Germania;2013;2,1
+DEE0;Sachsen-Anhalt;DE;Germania;2014;2,2
+DEF0;Schleswig-Holstein;DE;Germania;2008;
+DEF0;Schleswig-Holstein;DE;Germania;2009;4,2
+DEF0;Schleswig-Holstein;DE;Germania;2010;
+DEF0;Schleswig-Holstein;DE;Germania;2011;
+DEF0;Schleswig-Holstein;DE;Germania;2012;3,6
+DEF0;Schleswig-Holstein;DE;Germania;2013;3,4
+DEF0;Schleswig-Holstein;DE;Germania;2014;3,3
+DEG0;Thüringen;DE;Germania;2008;
+DEG0;Thüringen;DE;Germania;2009;
+DEG0;Thüringen;DE;Germania;2010;
+DEG0;Thüringen;DE;Germania;2011;
+DEG0;Thüringen;DE;Germania;2012;3,5
+DEG0;Thüringen;DE;Germania;2013;3,3
+DEG0;Thüringen;DE;Germania;2014;3,5
+DK01;Hovedstaden;DK;Danimarca;2008;8,9
+DK01;Hovedstaden;DK;Danimarca;2009;8,9
+DK01;Hovedstaden;DK;Danimarca;2010;9,3
+DK01;Hovedstaden;DK;Danimarca;2011;9,2
+DK01;Hovedstaden;DK;Danimarca;2012;9,6
+DK01;Hovedstaden;DK;Danimarca;2013;9,4
+DK01;Hovedstaden;DK;Danimarca;2014;9,5
+DK02;Sjælland;DK;Danimarca;2008;4,8
+DK02;Sjælland;DK;Danimarca;2009;4,3
+DK02;Sjælland;DK;Danimarca;2010;4,9
+DK02;Sjælland;DK;Danimarca;2011;4,7
+DK02;Sjælland;DK;Danimarca;2012;4,4
+DK02;Sjælland;DK;Danimarca;2013;5,2
+DK02;Sjælland;DK;Danimarca;2014;5,6
+DK03;Syddanmark;DK;Danimarca;2008;2,2
+DK03;Syddanmark;DK;Danimarca;2009;2
+DK03;Syddanmark;DK;Danimarca;2010;2,3
+DK03;Syddanmark;DK;Danimarca;2011;2,7
+DK03;Syddanmark;DK;Danimarca;2012;2,7
+DK03;Syddanmark;DK;Danimarca;2013;2,4
+DK03;Syddanmark;DK;Danimarca;2014;2,2
+DK04;Midtjylland;DK;Danimarca;2008;3,6
+DK04;Midtjylland;DK;Danimarca;2009;4,1
+DK04;Midtjylland;DK;Danimarca;2010;4,3
+DK04;Midtjylland;DK;Danimarca;2011;4
+DK04;Midtjylland;DK;Danimarca;2012;3,7
+DK04;Midtjylland;DK;Danimarca;2013;3,7
+DK04;Midtjylland;DK;Danimarca;2014;3,7
+DK05;Nordjylland;DK;Danimarca;2008;2,9
+DK05;Nordjylland;DK;Danimarca;2009;3,6
+DK05;Nordjylland;DK;Danimarca;2010;3,4
+DK05;Nordjylland;DK;Danimarca;2011;3,5
+DK05;Nordjylland;DK;Danimarca;2012;3,3
+DK05;Nordjylland;DK;Danimarca;2013;3,2
+DK05;Nordjylland;DK;Danimarca;2014;3,5
+EE00;Eesti;EE;Estonia;2008;3,2
+EE00;Eesti;EE;Estonia;2009;3,5
+EE00;Eesti;EE;Estonia;2010;3,4
+EE00;Eesti;EE;Estonia;2011;4,1
+EE00;Eesti;EE;Estonia;2012;3,7
+EE00;Eesti;EE;Estonia;2013;4,1
+EE00;Eesti;EE;Estonia;2014;4,5
+EL11;Anatoliki Makedonia, Thraki (NUTS 2010);EL;Grecia;2008;1
+EL11;Anatoliki Makedonia, Thraki (NUTS 2010);EL;Grecia;2009;0,9
+EL11;Anatoliki Makedonia, Thraki (NUTS 2010);EL;Grecia;2010;0,8
+EL11;Anatoliki Makedonia, Thraki (NUTS 2010);EL;Grecia;2011;0,9
+EL11;Anatoliki Makedonia, Thraki (NUTS 2010);EL;Grecia;2012;
+EL11;Anatoliki Makedonia, Thraki (NUTS 2010);EL;Grecia;2013;1,1
+EL11;Anatoliki Makedonia, Thraki (NUTS 2010);EL;Grecia;2014;0,8
+EL12;Kentriki Makedonia (NUTS 2010);EL;Grecia;2008;1,5
+EL12;Kentriki Makedonia (NUTS 2010);EL;Grecia;2009;1,5
+EL12;Kentriki Makedonia (NUTS 2010);EL;Grecia;2010;1,5
+EL12;Kentriki Makedonia (NUTS 2010);EL;Grecia;2011;1,7
+EL12;Kentriki Makedonia (NUTS 2010);EL;Grecia;2012;1,6
+EL12;Kentriki Makedonia (NUTS 2010);EL;Grecia;2013;1,5
+EL12;Kentriki Makedonia (NUTS 2010);EL;Grecia;2014;1,6
+EL13;Dytiki Makedonia (NUTS 2010);EL;Grecia;2008;
+EL13;Dytiki Makedonia (NUTS 2010);EL;Grecia;2009;
+EL13;Dytiki Makedonia (NUTS 2010);EL;Grecia;2010;
+EL13;Dytiki Makedonia (NUTS 2010);EL;Grecia;2011;
+EL13;Dytiki Makedonia (NUTS 2010);EL;Grecia;2012;
+EL13;Dytiki Makedonia (NUTS 2010);EL;Grecia;2013;
+EL13;Dytiki Makedonia (NUTS 2010);EL;Grecia;2014;
+EL14;Thessalia (NUTS 2010);EL;Grecia;2008;0,5
+EL14;Thessalia (NUTS 2010);EL;Grecia;2009;0,7
+EL14;Thessalia (NUTS 2010);EL;Grecia;2010;0,5
+EL14;Thessalia (NUTS 2010);EL;Grecia;2011;
+EL14;Thessalia (NUTS 2010);EL;Grecia;2012;0,7
+EL14;Thessalia (NUTS 2010);EL;Grecia;2013;0,6
+EL14;Thessalia (NUTS 2010);EL;Grecia;2014;
+EL21;Ipeiros (NUTS 2010);EL;Grecia;2008;
+EL21;Ipeiros (NUTS 2010);EL;Grecia;2009;
+EL21;Ipeiros (NUTS 2010);EL;Grecia;2010;
+EL21;Ipeiros (NUTS 2010);EL;Grecia;2011;
+EL21;Ipeiros (NUTS 2010);EL;Grecia;2012;
+EL21;Ipeiros (NUTS 2010);EL;Grecia;2013;
+EL21;Ipeiros (NUTS 2010);EL;Grecia;2014;
+EL22;Ionia Nisia (NUTS 2010);EL;Grecia;2008;
+EL22;Ionia Nisia (NUTS 2010);EL;Grecia;2009;
+EL22;Ionia Nisia (NUTS 2010);EL;Grecia;2010;
+EL22;Ionia Nisia (NUTS 2010);EL;Grecia;2011;
+EL22;Ionia Nisia (NUTS 2010);EL;Grecia;2012;
+EL22;Ionia Nisia (NUTS 2010);EL;Grecia;2013;
+EL22;Ionia Nisia (NUTS 2010);EL;Grecia;2014;
+EL23;Dytiki Ellada (NUTS 2010);EL;Grecia;2008;1,1
+EL23;Dytiki Ellada (NUTS 2010);EL;Grecia;2009;0,8
+EL23;Dytiki Ellada (NUTS 2010);EL;Grecia;2010;0,9
+EL23;Dytiki Ellada (NUTS 2010);EL;Grecia;2011;1
+EL23;Dytiki Ellada (NUTS 2010);EL;Grecia;2012;1
+EL23;Dytiki Ellada (NUTS 2010);EL;Grecia;2013;1,3
+EL23;Dytiki Ellada (NUTS 2010);EL;Grecia;2014;1,3
+EL24;Sterea Ellada (NUTS 2010);EL;Grecia;2008;1
+EL24;Sterea Ellada (NUTS 2010);EL;Grecia;2009;1
+EL24;Sterea Ellada (NUTS 2010);EL;Grecia;2010;0,7
+EL24;Sterea Ellada (NUTS 2010);EL;Grecia;2011;1,1
+EL24;Sterea Ellada (NUTS 2010);EL;Grecia;2012;1,4
+EL24;Sterea Ellada (NUTS 2010);EL;Grecia;2013;1,2
+EL24;Sterea Ellada (NUTS 2010);EL;Grecia;2014;
+EL25;Peloponnisos (NUTS 2010);EL;Grecia;2008;0,8
+EL25;Peloponnisos (NUTS 2010);EL;Grecia;2009;0,8
+EL25;Peloponnisos (NUTS 2010);EL;Grecia;2010;0,8
+EL25;Peloponnisos (NUTS 2010);EL;Grecia;2011;
+EL25;Peloponnisos (NUTS 2010);EL;Grecia;2012;
+EL25;Peloponnisos (NUTS 2010);EL;Grecia;2013;0,8
+EL25;Peloponnisos (NUTS 2010);EL;Grecia;2014;0,9
+EL30;Attiki;EL;Grecia;2008;4
+EL30;Attiki;EL;Grecia;2009;4,2
+EL30;Attiki;EL;Grecia;2010;4,4
+EL30;Attiki;EL;Grecia;2011;4
+EL30;Attiki;EL;Grecia;2012;4,2
+EL30;Attiki;EL;Grecia;2013;4,6
+EL30;Attiki;EL;Grecia;2014;4,9
+EL41;Voreio Aigaio;EL;Grecia;2008;
+EL41;Voreio Aigaio;EL;Grecia;2009;
+EL41;Voreio Aigaio;EL;Grecia;2010;
+EL41;Voreio Aigaio;EL;Grecia;2011;
+EL41;Voreio Aigaio;EL;Grecia;2012;
+EL41;Voreio Aigaio;EL;Grecia;2013;
+EL41;Voreio Aigaio;EL;Grecia;2014;
+EL42;Notio Aigaio;EL;Grecia;2008;
+EL42;Notio Aigaio;EL;Grecia;2009;
+EL42;Notio Aigaio;EL;Grecia;2010;
+EL42;Notio Aigaio;EL;Grecia;2011;1,4
+EL42;Notio Aigaio;EL;Grecia;2012;1,1
+EL42;Notio Aigaio;EL;Grecia;2013;
+EL42;Notio Aigaio;EL;Grecia;2014;
+EL43;Kriti;EL;Grecia;2008;1,1
+EL43;Kriti;EL;Grecia;2009;1,1
+EL43;Kriti;EL;Grecia;2010;0,9
+EL43;Kriti;EL;Grecia;2011;0,8
+EL43;Kriti;EL;Grecia;2012;1
+EL43;Kriti;EL;Grecia;2013;1,4
+EL43;Kriti;EL;Grecia;2014;1,6
+ES11;Galicia;ES;Soagna;2008;1,8
+ES11;Galicia;ES;Soagna;2009;2,1
+ES11;Galicia;ES;Soagna;2010;2
+ES11;Galicia;ES;Soagna;2011;2,3
+ES11;Galicia;ES;Soagna;2012;2,2
+ES11;Galicia;ES;Soagna;2013;2,6
+ES11;Galicia;ES;Soagna;2014;2,8
+ES12;Principado de Asturias;ES;Soagna;2008;1,7
+ES12;Principado de Asturias;ES;Soagna;2009;3,2
+ES12;Principado de Asturias;ES;Soagna;2010;2,3
+ES12;Principado de Asturias;ES;Soagna;2011;2,3
+ES12;Principado de Asturias;ES;Soagna;2012;2,6
+ES12;Principado de Asturias;ES;Soagna;2013;2,5
+ES12;Principado de Asturias;ES;Soagna;2014;2,5
+ES13;Cantabria;ES;Soagna;2008;1,4
+ES13;Cantabria;ES;Soagna;2009;1,6
+ES13;Cantabria;ES;Soagna;2010;1,5
+ES13;Cantabria;ES;Soagna;2011;3
+ES13;Cantabria;ES;Soagna;2012;3,5
+ES13;Cantabria;ES;Soagna;2013;1,9
+ES13;Cantabria;ES;Soagna;2014;3
+ES21;País Vasco;ES;Soagna;2008;4,2
+ES21;País Vasco;ES;Soagna;2009;3,9
+ES21;País Vasco;ES;Soagna;2010;3
+ES21;País Vasco;ES;Soagna;2011;4,2
+ES21;País Vasco;ES;Soagna;2012;3,5
+ES21;País Vasco;ES;Soagna;2013;4,2
+ES21;País Vasco;ES;Soagna;2014;3
+ES22;Comunidad Foral de Navarra;ES;Soagna;2008;1,3
+ES22;Comunidad Foral de Navarra;ES;Soagna;2009;1,4
+ES22;Comunidad Foral de Navarra;ES;Soagna;2010;2,2
+ES22;Comunidad Foral de Navarra;ES;Soagna;2011;2,4
+ES22;Comunidad Foral de Navarra;ES;Soagna;2012;1,3
+ES22;Comunidad Foral de Navarra;ES;Soagna;2013;2,3
+ES22;Comunidad Foral de Navarra;ES;Soagna;2014;1,9
+ES23;La Rioja;ES;Soagna;2008;
+ES23;La Rioja;ES;Soagna;2009;
+ES23;La Rioja;ES;Soagna;2010;1,5
+ES23;La Rioja;ES;Soagna;2011;2,1
+ES23;La Rioja;ES;Soagna;2012;2,8
+ES23;La Rioja;ES;Soagna;2013;
+ES23;La Rioja;ES;Soagna;2014;
+ES24;Aragón;ES;Soagna;2008;2,5
+ES24;Aragón;ES;Soagna;2009;2,4
+ES24;Aragón;ES;Soagna;2010;2,8
+ES24;Aragón;ES;Soagna;2011;2,8
+ES24;Aragón;ES;Soagna;2012;3,9
+ES24;Aragón;ES;Soagna;2013;3
+ES24;Aragón;ES;Soagna;2014;3
+ES30;Comunidad de Madrid;ES;Soagna;2008;7,9
+ES30;Comunidad de Madrid;ES;Soagna;2009;9,5
+ES30;Comunidad de Madrid;ES;Soagna;2010;7,2
+ES30;Comunidad de Madrid;ES;Soagna;2011;7,9
+ES30;Comunidad de Madrid;ES;Soagna;2012;8,4
+ES30;Comunidad de Madrid;ES;Soagna;2013;9,5
+ES30;Comunidad de Madrid;ES;Soagna;2014;8,9
+ES41;Castilla y León;ES;Soagna;2008;2,5
+ES41;Castilla y León;ES;Soagna;2009;2,3
+ES41;Castilla y León;ES;Soagna;2010;2,6
+ES41;Castilla y León;ES;Soagna;2011;2,6
+ES41;Castilla y León;ES;Soagna;2012;2,4
+ES41;Castilla y León;ES;Soagna;2013;2,6
+ES41;Castilla y León;ES;Soagna;2014;2,2
+ES42;Castilla-la Mancha;ES;Soagna;2008;2
+ES42;Castilla-la Mancha;ES;Soagna;2009;1,7
+ES42;Castilla-la Mancha;ES;Soagna;2010;2
+ES42;Castilla-la Mancha;ES;Soagna;2011;2,1
+ES42;Castilla-la Mancha;ES;Soagna;2012;1,8
+ES42;Castilla-la Mancha;ES;Soagna;2013;2,2
+ES42;Castilla-la Mancha;ES;Soagna;2014;3
+ES43;Extremadura;ES;Soagna;2008;1,7
+ES43;Extremadura;ES;Soagna;2009;1,2
+ES43;Extremadura;ES;Soagna;2010;1,5
+ES43;Extremadura;ES;Soagna;2011;1,9
+ES43;Extremadura;ES;Soagna;2012;0,9
+ES43;Extremadura;ES;Soagna;2013;1,8
+ES43;Extremadura;ES;Soagna;2014;1,1
+ES51;Cataluña;ES;Soagna;2008;4
+ES51;Cataluña;ES;Soagna;2009;3,7
+ES51;Cataluña;ES;Soagna;2010;4,7
+ES51;Cataluña;ES;Soagna;2011;4,3
+ES51;Cataluña;ES;Soagna;2012;4,9
+ES51;Cataluña;ES;Soagna;2013;4,3
+ES51;Cataluña;ES;Soagna;2014;5
+ES52;Comunidad Valenciana;ES;Soagna;2008;1,8
+ES52;Comunidad Valenciana;ES;Soagna;2009;1,7
+ES52;Comunidad Valenciana;ES;Soagna;2010;1,8
+ES52;Comunidad Valenciana;ES;Soagna;2011;2,9
+ES52;Comunidad Valenciana;ES;Soagna;2012;1,9
+ES52;Comunidad Valenciana;ES;Soagna;2013;2,8
+ES52;Comunidad Valenciana;ES;Soagna;2014;2,5
+ES53;Illes Balears;ES;Soagna;2008;1,6
+ES53;Illes Balears;ES;Soagna;2009;2,1
+ES53;Illes Balears;ES;Soagna;2010;1,5
+ES53;Illes Balears;ES;Soagna;2011;2,1
+ES53;Illes Balears;ES;Soagna;2012;2,4
+ES53;Illes Balears;ES;Soagna;2013;1,6
+ES53;Illes Balears;ES;Soagna;2014;0,9
+ES61;Andalucía;ES;Soagna;2008;1,9
+ES61;Andalucía;ES;Soagna;2009;2,4
+ES61;Andalucía;ES;Soagna;2010;2
+ES61;Andalucía;ES;Soagna;2011;2,2
+ES61;Andalucía;ES;Soagna;2012;1,9
+ES61;Andalucía;ES;Soagna;2013;2,1
+ES61;Andalucía;ES;Soagna;2014;2
+ES62;Región de Murcia;ES;Soagna;2008;1,4
+ES62;Región de Murcia;ES;Soagna;2009;1,4
+ES62;Región de Murcia;ES;Soagna;2010;0,9
+ES62;Región de Murcia;ES;Soagna;2011;0,8
+ES62;Región de Murcia;ES;Soagna;2012;1,4
+ES62;Región de Murcia;ES;Soagna;2013;1,2
+ES62;Región de Murcia;ES;Soagna;2014;2,2
+ES63;Ciudad Autónoma de Ceuta (ES);ES;Soagna;2008;
+ES63;Ciudad Autónoma de Ceuta (ES);ES;Soagna;2009;
+ES63;Ciudad Autónoma de Ceuta (ES);ES;Soagna;2010;
+ES63;Ciudad Autónoma de Ceuta (ES);ES;Soagna;2011;
+ES63;Ciudad Autónoma de Ceuta (ES);ES;Soagna;2012;
+ES63;Ciudad Autónoma de Ceuta (ES);ES;Soagna;2013;
+ES63;Ciudad Autónoma de Ceuta (ES);ES;Soagna;2014;
+ES64;Ciudad Autónoma de Melilla (ES);ES;Soagna;2008;
+ES64;Ciudad Autónoma de Melilla (ES);ES;Soagna;2009;
+ES64;Ciudad Autónoma de Melilla (ES);ES;Soagna;2010;
+ES64;Ciudad Autónoma de Melilla (ES);ES;Soagna;2011;
+ES64;Ciudad Autónoma de Melilla (ES);ES;Soagna;2012;
+ES64;Ciudad Autónoma de Melilla (ES);ES;Soagna;2013;
+ES64;Ciudad Autónoma de Melilla (ES);ES;Soagna;2014;
+ES70;Canarias (ES);ES;Soagna;2008;1,2
+ES70;Canarias (ES);ES;Soagna;2009;1,5
+ES70;Canarias (ES);ES;Soagna;2010;1,2
+ES70;Canarias (ES);ES;Soagna;2011;1,2
+ES70;Canarias (ES);ES;Soagna;2012;0,8
+ES70;Canarias (ES);ES;Soagna;2013;1,4
+ES70;Canarias (ES);ES;Soagna;2014;2,1
+FI19;Länsi-Suomi;FI;Finlandia;2008;4
+FI19;Länsi-Suomi;FI;Finlandia;2009;3,6
+FI19;Länsi-Suomi;FI;Finlandia;2010;3,5
+FI19;Länsi-Suomi;FI;Finlandia;2011;3,9
+FI19;Länsi-Suomi;FI;Finlandia;2012;4,2
+FI19;Länsi-Suomi;FI;Finlandia;2013;4,3
+FI19;Länsi-Suomi;FI;Finlandia;2014;3,4
+FI1B;Helsinki-Uusimaa;FI;Finlandia;2008;9,5
+FI1B;Helsinki-Uusimaa;FI;Finlandia;2009;9,7
+FI1B;Helsinki-Uusimaa;FI;Finlandia;2010;9,8
+FI1B;Helsinki-Uusimaa;FI;Finlandia;2011;9
+FI1B;Helsinki-Uusimaa;FI;Finlandia;2012;9,4
+FI1B;Helsinki-Uusimaa;FI;Finlandia;2013;8,7
+FI1B;Helsinki-Uusimaa;FI;Finlandia;2014;10
+FI1C;Etelä-Suomi;FI;Finlandia;2008;4,6
+FI1C;Etelä-Suomi;FI;Finlandia;2009;3,8
+FI1C;Etelä-Suomi;FI;Finlandia;2010;4,1
+FI1C;Etelä-Suomi;FI;Finlandia;2011;4,3
+FI1C;Etelä-Suomi;FI;Finlandia;2012;3,8
+FI1C;Etelä-Suomi;FI;Finlandia;2013;4
+FI1C;Etelä-Suomi;FI;Finlandia;2014;4,4
+FI1D;Pohjois- ja Itä-Suomi;FI;Finlandia;2008;4,7
+FI1D;Pohjois- ja Itä-Suomi;FI;Finlandia;2009;4
+FI1D;Pohjois- ja Itä-Suomi;FI;Finlandia;2010;4,1
+FI1D;Pohjois- ja Itä-Suomi;FI;Finlandia;2011;4,1
+FI1D;Pohjois- ja Itä-Suomi;FI;Finlandia;2012;4,1
+FI1D;Pohjois- ja Itä-Suomi;FI;Finlandia;2013;4,4
+FI1D;Pohjois- ja Itä-Suomi;FI;Finlandia;2014;4,3
+FI20;Åland;FI;Finlandia;2008;
+FI20;Åland;FI;Finlandia;2009;
+FI20;Åland;FI;Finlandia;2010;
+FI20;Åland;FI;Finlandia;2011;
+FI20;Åland;FI;Finlandia;2012;
+FI20;Åland;FI;Finlandia;2013;
+FI20;Åland;FI;Finlandia;2014;
+FR10;Île de France;FR;Francia;2008;7,2
+FR10;Île de France;FR;Francia;2009;7,7
+FR10;Île de France;FR;Francia;2010;7,8
+FR10;Île de France;FR;Francia;2011;8
+FR10;Île de France;FR;Francia;2012;7,4
+FR10;Île de France;FR;Francia;2013;6,8
+FR10;Île de France;FR;Francia;2014;7,2
+FR21;Champagne-Ardenne;FR;Francia;2008;
+FR21;Champagne-Ardenne;FR;Francia;2009;
+FR21;Champagne-Ardenne;FR;Francia;2010;
+FR21;Champagne-Ardenne;FR;Francia;2011;
+FR21;Champagne-Ardenne;FR;Francia;2012;
+FR21;Champagne-Ardenne;FR;Francia;2013;
+FR21;Champagne-Ardenne;FR;Francia;2014;
+FR22;Picardie;FR;Francia;2008;
+FR22;Picardie;FR;Francia;2009;
+FR22;Picardie;FR;Francia;2010;
+FR22;Picardie;FR;Francia;2011;
+FR22;Picardie;FR;Francia;2012;
+FR22;Picardie;FR;Francia;2013;
+FR22;Picardie;FR;Francia;2014;
+FR23;Haute-Normandie;FR;Francia;2008;3,5
+FR23;Haute-Normandie;FR;Francia;2009;3,3
+FR23;Haute-Normandie;FR;Francia;2010;3,5
+FR23;Haute-Normandie;FR;Francia;2011;3,1
+FR23;Haute-Normandie;FR;Francia;2012;
+FR23;Haute-Normandie;FR;Francia;2013;2,9
+FR23;Haute-Normandie;FR;Francia;2014;3,1
+FR24;Centre (FR);FR;Francia;2008;4
+FR24;Centre (FR);FR;Francia;2009;3,5
+FR24;Centre (FR);FR;Francia;2010;3,2
+FR24;Centre (FR);FR;Francia;2011;3,5
+FR24;Centre (FR);FR;Francia;2012;3,6
+FR24;Centre (FR);FR;Francia;2013;3,4
+FR24;Centre (FR);FR;Francia;2014;3,5
+FR25;Basse-Normandie;FR;Francia;2008;
+FR25;Basse-Normandie;FR;Francia;2009;
+FR25;Basse-Normandie;FR;Francia;2010;
+FR25;Basse-Normandie;FR;Francia;2011;
+FR25;Basse-Normandie;FR;Francia;2012;
+FR25;Basse-Normandie;FR;Francia;2013;
+FR25;Basse-Normandie;FR;Francia;2014;
+FR26;Bourgogne;FR;Francia;2008;
+FR26;Bourgogne;FR;Francia;2009;
+FR26;Bourgogne;FR;Francia;2010;
+FR26;Bourgogne;FR;Francia;2011;
+FR26;Bourgogne;FR;Francia;2012;
+FR26;Bourgogne;FR;Francia;2013;
+FR26;Bourgogne;FR;Francia;2014;
+FR30;Nord - Pas-de-Calais;FR;Francia;2008;1,8
+FR30;Nord - Pas-de-Calais;FR;Francia;2009;2,5
+FR30;Nord - Pas-de-Calais;FR;Francia;2010;2,4
+FR30;Nord - Pas-de-Calais;FR;Francia;2011;2,4
+FR30;Nord - Pas-de-Calais;FR;Francia;2012;1,9
+FR30;Nord - Pas-de-Calais;FR;Francia;2013;1,5
+FR30;Nord - Pas-de-Calais;FR;Francia;2014;1,9
+FR41;Lorraine;FR;Francia;2008;
+FR41;Lorraine;FR;Francia;2009;
+FR41;Lorraine;FR;Francia;2010;
+FR41;Lorraine;FR;Francia;2011;
+FR41;Lorraine;FR;Francia;2012;
+FR41;Lorraine;FR;Francia;2013;
+FR41;Lorraine;FR;Francia;2014;2,7
+FR42;Alsace;FR;Francia;2008;3,3
+FR42;Alsace;FR;Francia;2009;4
+FR42;Alsace;FR;Francia;2010;4,1
+FR42;Alsace;FR;Francia;2011;4,9
+FR42;Alsace;FR;Francia;2012;4,7
+FR42;Alsace;FR;Francia;2013;3,6
+FR42;Alsace;FR;Francia;2014;3,9
+FR43;Franche-Comté;FR;Francia;2008;
+FR43;Franche-Comté;FR;Francia;2009;
+FR43;Franche-Comté;FR;Francia;2010;
+FR43;Franche-Comté;FR;Francia;2011;
+FR43;Franche-Comté;FR;Francia;2012;
+FR43;Franche-Comté;FR;Francia;2013;
+FR43;Franche-Comté;FR;Francia;2014;6,2
+FR51;Pays de la Loire;FR;Francia;2008;2,8
+FR51;Pays de la Loire;FR;Francia;2009;3,1
+FR51;Pays de la Loire;FR;Francia;2010;2,8
+FR51;Pays de la Loire;FR;Francia;2011;2,6
+FR51;Pays de la Loire;FR;Francia;2012;3,8
+FR51;Pays de la Loire;FR;Francia;2013;2,4
+FR51;Pays de la Loire;FR;Francia;2014;2,2
+FR52;Bretagne;FR;Francia;2008;2,4
+FR52;Bretagne;FR;Francia;2009;3,1
+FR52;Bretagne;FR;Francia;2010;3
+FR52;Bretagne;FR;Francia;2011;3
+FR52;Bretagne;FR;Francia;2012;3,6
+FR52;Bretagne;FR;Francia;2013;2,8
+FR52;Bretagne;FR;Francia;2014;3,8
+FR53;Poitou-Charentes;FR;Francia;2008;
+FR53;Poitou-Charentes;FR;Francia;2009;
+FR53;Poitou-Charentes;FR;Francia;2010;
+FR53;Poitou-Charentes;FR;Francia;2011;
+FR53;Poitou-Charentes;FR;Francia;2012;
+FR53;Poitou-Charentes;FR;Francia;2013;
+FR53;Poitou-Charentes;FR;Francia;2014;
+FR61;Aquitaine;FR;Francia;2008;2,5
+FR61;Aquitaine;FR;Francia;2009;3
+FR61;Aquitaine;FR;Francia;2010;3,6
+FR61;Aquitaine;FR;Francia;2011;2,9
+FR61;Aquitaine;FR;Francia;2012;3,3
+FR61;Aquitaine;FR;Francia;2013;3,5
+FR61;Aquitaine;FR;Francia;2014;4,5
+FR62;Midi-Pyrénées;FR;Francia;2008;4,4
+FR62;Midi-Pyrénées;FR;Francia;2009;3,2
+FR62;Midi-Pyrénées;FR;Francia;2010;5,8
+FR62;Midi-Pyrénées;FR;Francia;2011;4,8
+FR62;Midi-Pyrénées;FR;Francia;2012;6,1
+FR62;Midi-Pyrénées;FR;Francia;2013;4,7
+FR62;Midi-Pyrénées;FR;Francia;2014;3,6
+FR63;Limousin;FR;Francia;2008;
+FR63;Limousin;FR;Francia;2009;
+FR63;Limousin;FR;Francia;2010;
+FR63;Limousin;FR;Francia;2011;
+FR63;Limousin;FR;Francia;2012;
+FR63;Limousin;FR;Francia;2013;
+FR63;Limousin;FR;Francia;2014;
+FR71;Rhône-Alpes;FR;Francia;2008;4,1
+FR71;Rhône-Alpes;FR;Francia;2009;3,9
+FR71;Rhône-Alpes;FR;Francia;2010;3,8
+FR71;Rhône-Alpes;FR;Francia;2011;4,5
+FR71;Rhône-Alpes;FR;Francia;2012;4,2
+FR71;Rhône-Alpes;FR;Francia;2013;4,9
+FR71;Rhône-Alpes;FR;Francia;2014;5,2
+FR72;Auvergne;FR;Francia;2008;
+FR72;Auvergne;FR;Francia;2009;
+FR72;Auvergne;FR;Francia;2010;
+FR72;Auvergne;FR;Francia;2011;
+FR72;Auvergne;FR;Francia;2012;
+FR72;Auvergne;FR;Francia;2013;
+FR72;Auvergne;FR;Francia;2014;
+FR81;Languedoc-Roussillon;FR;Francia;2008;
+FR81;Languedoc-Roussillon;FR;Francia;2009;2,8
+FR81;Languedoc-Roussillon;FR;Francia;2010;2,4
+FR81;Languedoc-Roussillon;FR;Francia;2011;2,6
+FR81;Languedoc-Roussillon;FR;Francia;2012;2,9
+FR81;Languedoc-Roussillon;FR;Francia;2013;
+FR81;Languedoc-Roussillon;FR;Francia;2014;2,9
+FR82;Provence-Alpes-Côte d'Azur;FR;Francia;2008;3,4
+FR82;Provence-Alpes-Côte d'Azur;FR;Francia;2009;3
+FR82;Provence-Alpes-Côte d'Azur;FR;Francia;2010;3,2
+FR82;Provence-Alpes-Côte d'Azur;FR;Francia;2011;3,6
+FR82;Provence-Alpes-Côte d'Azur;FR;Francia;2012;3,4
+FR82;Provence-Alpes-Côte d'Azur;FR;Francia;2013;3,4
+FR82;Provence-Alpes-Côte d'Azur;FR;Francia;2014;3,8
+FR83;Corse;FR;Francia;2008;
+FR83;Corse;FR;Francia;2009;
+FR83;Corse;FR;Francia;2010;
+FR83;Corse;FR;Francia;2011;
+FR83;Corse;FR;Francia;2012;
+FR83;Corse;FR;Francia;2013;
+FR83;Corse;FR;Francia;2014;
+FR91;Guadeloupe (NUTS 2010);FR;Francia;2008;
+FR91;Guadeloupe (NUTS 2010);FR;Francia;2009;
+FR91;Guadeloupe (NUTS 2010);FR;Francia;2010;
+FR91;Guadeloupe (NUTS 2010);FR;Francia;2011;
+FR91;Guadeloupe (NUTS 2010);FR;Francia;2012;
+FR91;Guadeloupe (NUTS 2010);FR;Francia;2013;
+FR91;Guadeloupe (NUTS 2010);FR;Francia;2014;
+FR92;Martinique (NUTS 2010);FR;Francia;2008;
+FR92;Martinique (NUTS 2010);FR;Francia;2009;
+FR92;Martinique (NUTS 2010);FR;Francia;2010;
+FR92;Martinique (NUTS 2010);FR;Francia;2011;
+FR92;Martinique (NUTS 2010);FR;Francia;2012;
+FR92;Martinique (NUTS 2010);FR;Francia;2013;
+FR92;Martinique (NUTS 2010);FR;Francia;2014;
+FR93;Guyane (NUTS 2010);FR;Francia;2008;
+FR93;Guyane (NUTS 2010);FR;Francia;2009;
+FR93;Guyane (NUTS 2010);FR;Francia;2010;
+FR93;Guyane (NUTS 2010);FR;Francia;2011;
+FR93;Guyane (NUTS 2010);FR;Francia;2012;
+FR93;Guyane (NUTS 2010);FR;Francia;2013;
+FR93;Guyane (NUTS 2010);FR;Francia;2014;
+FR94;Réunion (NUTS 2010);FR;Francia;2008;
+FR94;Réunion (NUTS 2010);FR;Francia;2009;
+FR94;Réunion (NUTS 2010);FR;Francia;2010;
+FR94;Réunion (NUTS 2010);FR;Francia;2011;
+FR94;Réunion (NUTS 2010);FR;Francia;2012;
+FR94;Réunion (NUTS 2010);FR;Francia;2013;
+FR94;Réunion (NUTS 2010);FR;Francia;2014;
+HR03;Jadranska Hrvatska;HR;Croazia;2008;1,7
+HR03;Jadranska Hrvatska;HR;Croazia;2009;1,4
+HR03;Jadranska Hrvatska;HR;Croazia;2010;1,6
+HR03;Jadranska Hrvatska;HR;Croazia;2011;1,6
+HR03;Jadranska Hrvatska;HR;Croazia;2012;1,6
+HR03;Jadranska Hrvatska;HR;Croazia;2013;1,7
+HR03;Jadranska Hrvatska;HR;Croazia;2014;1,9
+HR04;Kontinentalna Hrvatska;HR;Croazia;2008;3,4
+HR04;Kontinentalna Hrvatska;HR;Croazia;2009;3,1
+HR04;Kontinentalna Hrvatska;HR;Croazia;2010;3,2
+HR04;Kontinentalna Hrvatska;HR;Croazia;2011;3,3
+HR04;Kontinentalna Hrvatska;HR;Croazia;2012;3
+HR04;Kontinentalna Hrvatska;HR;Croazia;2013;3,3
+HR04;Kontinentalna Hrvatska;HR;Croazia;2014;3,7
+HU10;Közép-Magyarország;HU;Ungheria;2008;7,2
+HU10;Közép-Magyarország;HU;Ungheria;2009;6,9
+HU10;Közép-Magyarország;HU;Ungheria;2010;7,2
+HU10;Közép-Magyarország;HU;Ungheria;2011;7,4
+HU10;Közép-Magyarország;HU;Ungheria;2012;7,7
+HU10;Közép-Magyarország;HU;Ungheria;2013;8,8
+HU10;Közép-Magyarország;HU;Ungheria;2014;7,8
+HU21;Közép-Dunántúl;HU;Ungheria;2008;5,5
+HU21;Közép-Dunántúl;HU;Ungheria;2009;5,5
+HU21;Közép-Dunántúl;HU;Ungheria;2010;5,6
+HU21;Közép-Dunántúl;HU;Ungheria;2011;5,2
+HU21;Közép-Dunántúl;HU;Ungheria;2012;4,8
+HU21;Közép-Dunántúl;HU;Ungheria;2013;3,7
+HU21;Közép-Dunántúl;HU;Ungheria;2014;2,9
+HU22;Nyugat-Dunántúl;HU;Ungheria;2008;5,2
+HU22;Nyugat-Dunántúl;HU;Ungheria;2009;4,3
+HU22;Nyugat-Dunántúl;HU;Ungheria;2010;4,9
+HU22;Nyugat-Dunántúl;HU;Ungheria;2011;6,6
+HU22;Nyugat-Dunántúl;HU;Ungheria;2012;5
+HU22;Nyugat-Dunántúl;HU;Ungheria;2013;3,5
+HU22;Nyugat-Dunántúl;HU;Ungheria;2014;4
+HU23;Dél-Dunántúl;HU;Ungheria;2008;5
+HU23;Dél-Dunántúl;HU;Ungheria;2009;3,9
+HU23;Dél-Dunántúl;HU;Ungheria;2010;4,4
+HU23;Dél-Dunántúl;HU;Ungheria;2011;3,9
+HU23;Dél-Dunántúl;HU;Ungheria;2012;2,8
+HU23;Dél-Dunántúl;HU;Ungheria;2013;3
+HU23;Dél-Dunántúl;HU;Ungheria;2014;2,8
+HU31;Észak-Magyarország;HU;Ungheria;2008;3,6
+HU31;Észak-Magyarország;HU;Ungheria;2009;3,5
+HU31;Észak-Magyarország;HU;Ungheria;2010;4,5
+HU31;Észak-Magyarország;HU;Ungheria;2011;5,1
+HU31;Észak-Magyarország;HU;Ungheria;2012;5,2
+HU31;Észak-Magyarország;HU;Ungheria;2013;5,5
+HU31;Észak-Magyarország;HU;Ungheria;2014;5
+HU32;Észak-Alföld;HU;Ungheria;2008;3,3
+HU32;Észak-Alföld;HU;Ungheria;2009;2,8
+HU32;Észak-Alföld;HU;Ungheria;2010;2,8
+HU32;Észak-Alföld;HU;Ungheria;2011;3,6
+HU32;Észak-Alföld;HU;Ungheria;2012;3,6
+HU32;Észak-Alföld;HU;Ungheria;2013;4
+HU32;Észak-Alföld;HU;Ungheria;2014;3,3
+HU33;Dél-Alföld;HU;Ungheria;2008;2,1
+HU33;Dél-Alföld;HU;Ungheria;2009;1,9
+HU33;Dél-Alföld;HU;Ungheria;2010;2,3
+HU33;Dél-Alföld;HU;Ungheria;2011;2,2
+HU33;Dél-Alföld;HU;Ungheria;2012;2,5
+HU33;Dél-Alföld;HU;Ungheria;2013;2,3
+HU33;Dél-Alföld;HU;Ungheria;2014;1,7
+IE01;Border, Midland and Western;IE;Irlanda;2008;3,8
+IE01;Border, Midland and Western;IE;Irlanda;2009;4,2
+IE01;Border, Midland and Western;IE;Irlanda;2010;5
+IE01;Border, Midland and Western;IE;Irlanda;2011;4,9
+IE01;Border, Midland and Western;IE;Irlanda;2012;5,1
+IE01;Border, Midland and Western;IE;Irlanda;2013;5,1
+IE01;Border, Midland and Western;IE;Irlanda;2014;4
+IE02;Southern and Eastern;IE;Irlanda;2008;7
+IE02;Southern and Eastern;IE;Irlanda;2009;7,5
+IE02;Southern and Eastern;IE;Irlanda;2010;7,8
+IE02;Southern and Eastern;IE;Irlanda;2011;8
+IE02;Southern and Eastern;IE;Irlanda;2012;8,4
+IE02;Southern and Eastern;IE;Irlanda;2013;8,1
+IE02;Southern and Eastern;IE;Irlanda;2014;8,4
+ITC1;Piemonte;IT;Italia;2008;3,5
+ITC1;Piemonte;IT;Italia;2009;3,4
+ITC1;Piemonte;IT;Italia;2010;3,4
+ITC1;Piemonte;IT;Italia;2011;3,8
+ITC1;Piemonte;IT;Italia;2012;3,6
+ITC1;Piemonte;IT;Italia;2013;3,7
+ITC1;Piemonte;IT;Italia;2014;3,7
+ITC2;Valle d'Aosta/Vallée d'Aoste;IT;Italia;2008;
+ITC2;Valle d'Aosta/Vallée d'Aoste;IT;Italia;2009;
+ITC2;Valle d'Aosta/Vallée d'Aoste;IT;Italia;2010;
+ITC2;Valle d'Aosta/Vallée d'Aoste;IT;Italia;2011;
+ITC2;Valle d'Aosta/Vallée d'Aoste;IT;Italia;2012;
+ITC2;Valle d'Aosta/Vallée d'Aoste;IT;Italia;2013;
+ITC2;Valle d'Aosta/Vallée d'Aoste;IT;Italia;2014;
+ITC3;Liguria;IT;Italia;2008;3,5
+ITC3;Liguria;IT;Italia;2009;3,1
+ITC3;Liguria;IT;Italia;2010;2,7
+ITC3;Liguria;IT;Italia;2011;2,9
+ITC3;Liguria;IT;Italia;2012;3,5
+ITC3;Liguria;IT;Italia;2013;3,5
+ITC3;Liguria;IT;Italia;2014;3
+ITC4;Lombardia;IT;Italia;2008;4,6
+ITC4;Lombardia;IT;Italia;2009;5
+ITC4;Lombardia;IT;Italia;2010;4,7
+ITC4;Lombardia;IT;Italia;2011;4,7
+ITC4;Lombardia;IT;Italia;2012;4,7
+ITC4;Lombardia;IT;Italia;2013;4,9
+ITC4;Lombardia;IT;Italia;2014;4,8
+ITF1;Abruzzo;IT;Italia;2008;3,1
+ITF1;Abruzzo;IT;Italia;2009;2,8
+ITF1;Abruzzo;IT;Italia;2010;2,3
+ITF1;Abruzzo;IT;Italia;2011;2,2
+ITF1;Abruzzo;IT;Italia;2012;3
+ITF1;Abruzzo;IT;Italia;2013;2,9
+ITF1;Abruzzo;IT;Italia;2014;2,8
+ITF2;Molise;IT;Italia;2008;
+ITF2;Molise;IT;Italia;2009;1,7
+ITF2;Molise;IT;Italia;2010;1,7
+ITF2;Molise;IT;Italia;2011;
+ITF2;Molise;IT;Italia;2012;
+ITF2;Molise;IT;Italia;2013;
+ITF2;Molise;IT;Italia;2014;
+ITF3;Campania;IT;Italia;2008;2,2
+ITF3;Campania;IT;Italia;2009;2,4
+ITF3;Campania;IT;Italia;2010;2,3
+ITF3;Campania;IT;Italia;2011;2,1
+ITF3;Campania;IT;Italia;2012;2,5
+ITF3;Campania;IT;Italia;2013;2,5
+ITF3;Campania;IT;Italia;2014;2,3
+ITF4;Puglia;IT;Italia;2008;1,4
+ITF4;Puglia;IT;Italia;2009;1,4
+ITF4;Puglia;IT;Italia;2010;1,5
+ITF4;Puglia;IT;Italia;2011;1,6
+ITF4;Puglia;IT;Italia;2012;1,8
+ITF4;Puglia;IT;Italia;2013;1,6
+ITF4;Puglia;IT;Italia;2014;1,6
+ITF5;Basilicata;IT;Italia;2008;1,9
+ITF5;Basilicata;IT;Italia;2009;2
+ITF5;Basilicata;IT;Italia;2010;1,6
+ITF5;Basilicata;IT;Italia;2011;1,3
+ITF5;Basilicata;IT;Italia;2012;1,8
+ITF5;Basilicata;IT;Italia;2013;1,7
+ITF5;Basilicata;IT;Italia;2014;1,8
+ITF6;Calabria;IT;Italia;2008;1,5
+ITF6;Calabria;IT;Italia;2009;1,3
+ITF6;Calabria;IT;Italia;2010;1,3
+ITF6;Calabria;IT;Italia;2011;1,8
+ITF6;Calabria;IT;Italia;2012;1,7
+ITF6;Calabria;IT;Italia;2013;1,2
+ITF6;Calabria;IT;Italia;2014;1,1
+ITG1;Sicilia;IT;Italia;2008;1,9
+ITG1;Sicilia;IT;Italia;2009;1,8
+ITG1;Sicilia;IT;Italia;2010;1,7
+ITG1;Sicilia;IT;Italia;2011;1,6
+ITG1;Sicilia;IT;Italia;2012;1,7
+ITG1;Sicilia;IT;Italia;2013;1,9
+ITG1;Sicilia;IT;Italia;2014;1,9
+ITG2;Sardegna;IT;Italia;2008;2,3
+ITG2;Sardegna;IT;Italia;2009;2,2
+ITG2;Sardegna;IT;Italia;2010;1,5
+ITG2;Sardegna;IT;Italia;2011;1,6
+ITG2;Sardegna;IT;Italia;2012;1,9
+ITG2;Sardegna;IT;Italia;2013;1,9
+ITG2;Sardegna;IT;Italia;2014;1,6
+ITH1;Provincia Autonoma di Bolzano/Bozen;IT;Italia;2008;1,7
+ITH1;Provincia Autonoma di Bolzano/Bozen;IT;Italia;2009;1,6
+ITH1;Provincia Autonoma di Bolzano/Bozen;IT;Italia;2010;1,3
+ITH1;Provincia Autonoma di Bolzano/Bozen;IT;Italia;2011;1,3
+ITH1;Provincia Autonoma di Bolzano/Bozen;IT;Italia;2012;1,7
+ITH1;Provincia Autonoma di Bolzano/Bozen;IT;Italia;2013;2
+ITH1;Provincia Autonoma di Bolzano/Bozen;IT;Italia;2014;1,7
+ITH2;Provincia Autonoma di Trento;IT;Italia;2008;2,6
+ITH2;Provincia Autonoma di Trento;IT;Italia;2009;2,3
+ITH2;Provincia Autonoma di Trento;IT;Italia;2010;2,4
+ITH2;Provincia Autonoma di Trento;IT;Italia;2011;3
+ITH2;Provincia Autonoma di Trento;IT;Italia;2012;2,8
+ITH2;Provincia Autonoma di Trento;IT;Italia;2013;2,5
+ITH2;Provincia Autonoma di Trento;IT;Italia;2014;3,2
+ITH3;Veneto;IT;Italia;2008;2,7
+ITH3;Veneto;IT;Italia;2009;2,4
+ITH3;Veneto;IT;Italia;2010;2,9
+ITH3;Veneto;IT;Italia;2011;2,9
+ITH3;Veneto;IT;Italia;2012;2,6
+ITH3;Veneto;IT;Italia;2013;2,7
+ITH3;Veneto;IT;Italia;2014;2,7
+ITH4;Friuli-Venezia Giulia;IT;Italia;2008;2,6
+ITH4;Friuli-Venezia Giulia;IT;Italia;2009;2,4
+ITH4;Friuli-Venezia Giulia;IT;Italia;2010;2,4
+ITH4;Friuli-Venezia Giulia;IT;Italia;2011;2,2
+ITH4;Friuli-Venezia Giulia;IT;Italia;2012;2,9
+ITH4;Friuli-Venezia Giulia;IT;Italia;2013;2,6
+ITH4;Friuli-Venezia Giulia;IT;Italia;2014;2,6
+ITH5;Emilia-Romagna;IT;Italia;2008;2,7
+ITH5;Emilia-Romagna;IT;Italia;2009;3
+ITH5;Emilia-Romagna;IT;Italia;2010;3,1
+ITH5;Emilia-Romagna;IT;Italia;2011;3,1
+ITH5;Emilia-Romagna;IT;Italia;2012;3,3
+ITH5;Emilia-Romagna;IT;Italia;2013;2,7
+ITH5;Emilia-Romagna;IT;Italia;2014;3
+ITI1;Toscana;IT;Italia;2008;2,6
+ITI1;Toscana;IT;Italia;2009;2,3
+ITI1;Toscana;IT;Italia;2010;2,4
+ITI1;Toscana;IT;Italia;2011;2,5
+ITI1;Toscana;IT;Italia;2012;2,6
+ITI1;Toscana;IT;Italia;2013;2,8
+ITI1;Toscana;IT;Italia;2014;3,1
+ITI2;Umbria;IT;Italia;2008;2,4
+ITI2;Umbria;IT;Italia;2009;1,9
+ITI2;Umbria;IT;Italia;2010;2
+ITI2;Umbria;IT;Italia;2011;2
+ITI2;Umbria;IT;Italia;2012;2,7
+ITI2;Umbria;IT;Italia;2013;2,8
+ITI2;Umbria;IT;Italia;2014;2,1
+ITI3;Marche;IT;Italia;2008;2,2
+ITI3;Marche;IT;Italia;2009;2,3
+ITI3;Marche;IT;Italia;2010;2,2
+ITI3;Marche;IT;Italia;2011;2,8
+ITI3;Marche;IT;Italia;2012;2,6
+ITI3;Marche;IT;Italia;2013;2,8
+ITI3;Marche;IT;Italia;2014;2,7
+ITI4;Lazio;IT;Italia;2008;7,2
+ITI4;Lazio;IT;Italia;2009;7,3
+ITI4;Lazio;IT;Italia;2010;6,8
+ITI4;Lazio;IT;Italia;2011;6,9
+ITI4;Lazio;IT;Italia;2012;6,3
+ITI4;Lazio;IT;Italia;2013;6,4
+ITI4;Lazio;IT;Italia;2014;6,8
+LT00;Lietuva;LT;Lituania;2008;1,9
+LT00;Lietuva;LT;Lituania;2009;2
+LT00;Lietuva;LT;Lituania;2010;1,9
+LT00;Lietuva;LT;Lituania;2011;2,2
+LT00;Lietuva;LT;Lituania;2012;2,4
+LT00;Lietuva;LT;Lituania;2013;2,2
+LT00;Lietuva;LT;Lituania;2014;2,1
+LU00;Luxembourg;LU;Lussemburgo;2008;3,6
+LU00;Luxembourg;LU;Lussemburgo;2009;3,5
+LU00;Luxembourg;LU;Lussemburgo;2010;4,2
+LU00;Luxembourg;LU;Lussemburgo;2011;3,7
+LU00;Luxembourg;LU;Lussemburgo;2012;4,2
+LU00;Luxembourg;LU;Lussemburgo;2013;4
+LU00;Luxembourg;LU;Lussemburgo;2014;4,3
+LV00;Latvija;LV;Lettonia;2008;2,4
+LV00;Latvija;LV;Lettonia;2009;2,5
+LV00;Latvija;LV;Lettonia;2010;3,2
+LV00;Latvija;LV;Lettonia;2011;3
+LV00;Latvija;LV;Lettonia;2012;2,5
+LV00;Latvija;LV;Lettonia;2013;3,1
+LV00;Latvija;LV;Lettonia;2014;3,4
+MT00;Malta;MT;Malta;2008;6,4
+MT00;Malta;MT;Malta;2009;5,8
+MT00;Malta;MT;Malta;2010;5,1
+MT00;Malta;MT;Malta;2011;5,7
+MT00;Malta;MT;Malta;2012;6
+MT00;Malta;MT;Malta;2013;6,2
+MT00;Malta;MT;Malta;2014;6,1
+NL11;Groningen;NL;PaesiBassi;2008;4,1
+NL11;Groningen;NL;PaesiBassi;2009;3,7
+NL11;Groningen;NL;PaesiBassi;2010;4,5
+NL11;Groningen;NL;PaesiBassi;2011;3
+NL11;Groningen;NL;PaesiBassi;2012;2,9
+NL11;Groningen;NL;PaesiBassi;2013;3,4
+NL11;Groningen;NL;PaesiBassi;2014;2,7
+NL12;Friesland (NL);NL;PaesiBassi;2008;2,2
+NL12;Friesland (NL);NL;PaesiBassi;2009;2,4
+NL12;Friesland (NL);NL;PaesiBassi;2010;2,4
+NL12;Friesland (NL);NL;PaesiBassi;2011;1,6
+NL12;Friesland (NL);NL;PaesiBassi;2012;1,7
+NL12;Friesland (NL);NL;PaesiBassi;2013;1,8
+NL12;Friesland (NL);NL;PaesiBassi;2014;1,6
+NL13;Drenthe;NL;PaesiBassi;2008;2,7
+NL13;Drenthe;NL;PaesiBassi;2009;2,1
+NL13;Drenthe;NL;PaesiBassi;2010;2,5
+NL13;Drenthe;NL;PaesiBassi;2011;2,3
+NL13;Drenthe;NL;PaesiBassi;2012;3
+NL13;Drenthe;NL;PaesiBassi;2013;1,9
+NL13;Drenthe;NL;PaesiBassi;2014;3,6
+NL21;Overijssel;NL;PaesiBassi;2008;2,8
+NL21;Overijssel;NL;PaesiBassi;2009;3
+NL21;Overijssel;NL;PaesiBassi;2010;2,5
+NL21;Overijssel;NL;PaesiBassi;2011;2,6
+NL21;Overijssel;NL;PaesiBassi;2012;3,1
+NL21;Overijssel;NL;PaesiBassi;2013;3
+NL21;Overijssel;NL;PaesiBassi;2014;2,9
+NL22;Gelderland;NL;PaesiBassi;2008;3,7
+NL22;Gelderland;NL;PaesiBassi;2009;4
+NL22;Gelderland;NL;PaesiBassi;2010;3,2
+NL22;Gelderland;NL;PaesiBassi;2011;3,3
+NL22;Gelderland;NL;PaesiBassi;2012;3,4
+NL22;Gelderland;NL;PaesiBassi;2013;3,2
+NL22;Gelderland;NL;PaesiBassi;2014;3,6
+NL23;Flevoland;NL;PaesiBassi;2008;5,7
+NL23;Flevoland;NL;PaesiBassi;2009;3,6
+NL23;Flevoland;NL;PaesiBassi;2010;3,9
+NL23;Flevoland;NL;PaesiBassi;2011;5,3
+NL23;Flevoland;NL;PaesiBassi;2012;4,9
+NL23;Flevoland;NL;PaesiBassi;2013;4,6
+NL23;Flevoland;NL;PaesiBassi;2014;5,5
+NL31;Utrecht;NL;PaesiBassi;2008;5,7
+NL31;Utrecht;NL;PaesiBassi;2009;5,1
+NL31;Utrecht;NL;PaesiBassi;2010;5,3
+NL31;Utrecht;NL;PaesiBassi;2011;5,4
+NL31;Utrecht;NL;PaesiBassi;2012;5,4
+NL31;Utrecht;NL;PaesiBassi;2013;5,2
+NL31;Utrecht;NL;PaesiBassi;2014;5,1
+NL32;Noord-Holland;NL;PaesiBassi;2008;4,6
+NL32;Noord-Holland;NL;PaesiBassi;2009;5,1
+NL32;Noord-Holland;NL;PaesiBassi;2010;5,1
+NL32;Noord-Holland;NL;PaesiBassi;2011;4,2
+NL32;Noord-Holland;NL;PaesiBassi;2012;4,9
+NL32;Noord-Holland;NL;PaesiBassi;2013;4,1
+NL32;Noord-Holland;NL;PaesiBassi;2014;3,9
+NL33;Zuid-Holland;NL;PaesiBassi;2008;4,6
+NL33;Zuid-Holland;NL;PaesiBassi;2009;3,8
+NL33;Zuid-Holland;NL;PaesiBassi;2010;3,5
+NL33;Zuid-Holland;NL;PaesiBassi;2011;3,8
+NL33;Zuid-Holland;NL;PaesiBassi;2012;3,6
+NL33;Zuid-Holland;NL;PaesiBassi;2013;3,8
+NL33;Zuid-Holland;NL;PaesiBassi;2014;3,8
+NL34;Zeeland;NL;PaesiBassi;2008;1,4
+NL34;Zeeland;NL;PaesiBassi;2009;1,2
+NL34;Zeeland;NL;PaesiBassi;2010;0,9
+NL34;Zeeland;NL;PaesiBassi;2011;1,8
+NL34;Zeeland;NL;PaesiBassi;2012;
+NL34;Zeeland;NL;PaesiBassi;2013;1,1
+NL34;Zeeland;NL;PaesiBassi;2014;2,3
+NL41;Noord-Brabant;NL;PaesiBassi;2008;4,5
+NL41;Noord-Brabant;NL;PaesiBassi;2009;4,4
+NL41;Noord-Brabant;NL;PaesiBassi;2010;4,5
+NL41;Noord-Brabant;NL;PaesiBassi;2011;4,2
+NL41;Noord-Brabant;NL;PaesiBassi;2012;4,1
+NL41;Noord-Brabant;NL;PaesiBassi;2013;3,7
+NL41;Noord-Brabant;NL;PaesiBassi;2014;3,8
+NL42;Limburg (NL);NL;PaesiBassi;2008;3,8
+NL42;Limburg (NL);NL;PaesiBassi;2009;3,8
+NL42;Limburg (NL);NL;PaesiBassi;2010;3,1
+NL42;Limburg (NL);NL;PaesiBassi;2011;3,5
+NL42;Limburg (NL);NL;PaesiBassi;2012;3,4
+NL42;Limburg (NL);NL;PaesiBassi;2013;2,6
+NL42;Limburg (NL);NL;PaesiBassi;2014;2,6
+PL11;Lódzkie;PL;Polonia;2008;2,2
+PL11;Lódzkie;PL;Polonia;2009;3,1
+PL11;Lódzkie;PL;Polonia;2010;2,9
+PL11;Lódzkie;PL;Polonia;2011;2,8
+PL11;Lódzkie;PL;Polonia;2012;2,6
+PL11;Lódzkie;PL;Polonia;2013;3
+PL11;Lódzkie;PL;Polonia;2014;3,1
+PL12;Mazowieckie;PL;Polonia;2008;5,4
+PL12;Mazowieckie;PL;Polonia;2009;5,9
+PL12;Mazowieckie;PL;Polonia;2010;5,5
+PL12;Mazowieckie;PL;Polonia;2011;5,2
+PL12;Mazowieckie;PL;Polonia;2012;5,7
+PL12;Mazowieckie;PL;Polonia;2013;5,5
+PL12;Mazowieckie;PL;Polonia;2014;6,1
+PL21;Malopolskie;PL;Polonia;2008;2,7
+PL21;Malopolskie;PL;Polonia;2009;2,6
+PL21;Malopolskie;PL;Polonia;2010;2,6
+PL21;Malopolskie;PL;Polonia;2011;2,6
+PL21;Malopolskie;PL;Polonia;2012;3
+PL21;Malopolskie;PL;Polonia;2013;3,3
+PL21;Malopolskie;PL;Polonia;2014;2,9
+PL22;Slaskie;PL;Polonia;2008;1,8
+PL22;Slaskie;PL;Polonia;2009;2,1
+PL22;Slaskie;PL;Polonia;2010;2
+PL22;Slaskie;PL;Polonia;2011;2,2
+PL22;Slaskie;PL;Polonia;2012;2,5
+PL22;Slaskie;PL;Polonia;2013;2,3
+PL22;Slaskie;PL;Polonia;2014;2,4
+PL31;Lubelskie;PL;Polonia;2008;1,2
+PL31;Lubelskie;PL;Polonia;2009;1
+PL31;Lubelskie;PL;Polonia;2010;1,1
+PL31;Lubelskie;PL;Polonia;2011;1,4
+PL31;Lubelskie;PL;Polonia;2012;1,6
+PL31;Lubelskie;PL;Polonia;2013;1,5
+PL31;Lubelskie;PL;Polonia;2014;1,2
+PL32;Podkarpackie;PL;Polonia;2008;1,3
+PL32;Podkarpackie;PL;Polonia;2009;1,3
+PL32;Podkarpackie;PL;Polonia;2010;1,5
+PL32;Podkarpackie;PL;Polonia;2011;1,4
+PL32;Podkarpackie;PL;Polonia;2012;1,6
+PL32;Podkarpackie;PL;Polonia;2013;1,4
+PL32;Podkarpackie;PL;Polonia;2014;1,4
+PL33;Swietokrzyskie;PL;Polonia;2008;1
+PL33;Swietokrzyskie;PL;Polonia;2009;1
+PL33;Swietokrzyskie;PL;Polonia;2010;1,1
+PL33;Swietokrzyskie;PL;Polonia;2011;
+PL33;Swietokrzyskie;PL;Polonia;2012;0,9
+PL33;Swietokrzyskie;PL;Polonia;2013;1,1
+PL33;Swietokrzyskie;PL;Polonia;2014;1
+PL34;Podlaskie;PL;Polonia;2008;1,7
+PL34;Podlaskie;PL;Polonia;2009;1,3
+PL34;Podlaskie;PL;Polonia;2010;1,1
+PL34;Podlaskie;PL;Polonia;2011;1,2
+PL34;Podlaskie;PL;Polonia;2012;1,4
+PL34;Podlaskie;PL;Polonia;2013;1,5
+PL34;Podlaskie;PL;Polonia;2014;1,5
+PL41;Wielkopolskie;PL;Polonia;2008;1,4
+PL41;Wielkopolskie;PL;Polonia;2009;1,4
+PL41;Wielkopolskie;PL;Polonia;2010;1,6
+PL41;Wielkopolskie;PL;Polonia;2011;1,9
+PL41;Wielkopolskie;PL;Polonia;2012;1,7
+PL41;Wielkopolskie;PL;Polonia;2013;1,9
+PL41;Wielkopolskie;PL;Polonia;2014;2,1
+PL42;Zachodniopomorskie;PL;Polonia;2008;2,1
+PL42;Zachodniopomorskie;PL;Polonia;2009;2,1
+PL42;Zachodniopomorskie;PL;Polonia;2010;1,6
+PL42;Zachodniopomorskie;PL;Polonia;2011;1,6
+PL42;Zachodniopomorskie;PL;Polonia;2012;1,6
+PL42;Zachodniopomorskie;PL;Polonia;2013;2,1
+PL42;Zachodniopomorskie;PL;Polonia;2014;1,7
+PL43;Lubuskie;PL;Polonia;2008;2
+PL43;Lubuskie;PL;Polonia;2009;2,4
+PL43;Lubuskie;PL;Polonia;2010;2,1
+PL43;Lubuskie;PL;Polonia;2011;2,4
+PL43;Lubuskie;PL;Polonia;2012;2,4
+PL43;Lubuskie;PL;Polonia;2013;2,2
+PL43;Lubuskie;PL;Polonia;2014;1,9
+PL51;Dolnoslaskie;PL;Polonia;2008;3,9
+PL51;Dolnoslaskie;PL;Polonia;2009;3,9
+PL51;Dolnoslaskie;PL;Polonia;2010;3,7
+PL51;Dolnoslaskie;PL;Polonia;2011;3,7
+PL51;Dolnoslaskie;PL;Polonia;2012;4,1
+PL51;Dolnoslaskie;PL;Polonia;2013;4,5
+PL51;Dolnoslaskie;PL;Polonia;2014;4,4
+PL52;Opolskie;PL;Polonia;2008;
+PL52;Opolskie;PL;Polonia;2009;
+PL52;Opolskie;PL;Polonia;2010;
+PL52;Opolskie;PL;Polonia;2011;
+PL52;Opolskie;PL;Polonia;2012;1,6
+PL52;Opolskie;PL;Polonia;2013;
+PL52;Opolskie;PL;Polonia;2014;1,4
+PL61;Kujawsko-Pomorskie;PL;Polonia;2008;2,6
+PL61;Kujawsko-Pomorskie;PL;Polonia;2009;1,9
+PL61;Kujawsko-Pomorskie;PL;Polonia;2010;2,2
+PL61;Kujawsko-Pomorskie;PL;Polonia;2011;2,6
+PL61;Kujawsko-Pomorskie;PL;Polonia;2012;2,2
+PL61;Kujawsko-Pomorskie;PL;Polonia;2013;1,7
+PL61;Kujawsko-Pomorskie;PL;Polonia;2014;1,8
+PL62;Warminsko-Mazurskie;PL;Polonia;2008;1,1
+PL62;Warminsko-Mazurskie;PL;Polonia;2009;1,3
+PL62;Warminsko-Mazurskie;PL;Polonia;2010;1,6
+PL62;Warminsko-Mazurskie;PL;Polonia;2011;1,4
+PL62;Warminsko-Mazurskie;PL;Polonia;2012;1,2
+PL62;Warminsko-Mazurskie;PL;Polonia;2013;1,2
+PL62;Warminsko-Mazurskie;PL;Polonia;2014;
+PL63;Pomorskie;PL;Polonia;2008;3,9
+PL63;Pomorskie;PL;Polonia;2009;3,5
+PL63;Pomorskie;PL;Polonia;2010;4,3
+PL63;Pomorskie;PL;Polonia;2011;4,1
+PL63;Pomorskie;PL;Polonia;2012;4,1
+PL63;Pomorskie;PL;Polonia;2013;4,4
+PL63;Pomorskie;PL;Polonia;2014;4
+PT11;Norte;PT;Portogallo;2008;1,6
+PT11;Norte;PT;Portogallo;2009;1,6
+PT11;Norte;PT;Portogallo;2010;1,2
+PT11;Norte;PT;Portogallo;2011;1,4
+PT11;Norte;PT;Portogallo;2012;1,6
+PT11;Norte;PT;Portogallo;2013;2
+PT11;Norte;PT;Portogallo;2014;2,2
+PT15;Algarve;PT;Portogallo;2008;
+PT15;Algarve;PT;Portogallo;2009;
+PT15;Algarve;PT;Portogallo;2010;
+PT15;Algarve;PT;Portogallo;2011;
+PT15;Algarve;PT;Portogallo;2012;
+PT15;Algarve;PT;Portogallo;2013;
+PT15;Algarve;PT;Portogallo;2014;
+PT16;Centro (PT);PT;Portogallo;2008;1
+PT16;Centro (PT);PT;Portogallo;2009;0,9
+PT16;Centro (PT);PT;Portogallo;2010;1,1
+PT16;Centro (PT);PT;Portogallo;2011;1,2
+PT16;Centro (PT);PT;Portogallo;2012;1
+PT16;Centro (PT);PT;Portogallo;2013;1,4
+PT16;Centro (PT);PT;Portogallo;2014;1,5
+PT17;Área Metropolitana de Lisboa;PT;Portogallo;2008;4,8
+PT17;Área Metropolitana de Lisboa;PT;Portogallo;2009;4,9
+PT17;Área Metropolitana de Lisboa;PT;Portogallo;2010;5,3
+PT17;Área Metropolitana de Lisboa;PT;Portogallo;2011;4,2
+PT17;Área Metropolitana de Lisboa;PT;Portogallo;2012;4,6
+PT17;Área Metropolitana de Lisboa;PT;Portogallo;2013;4,8
+PT17;Área Metropolitana de Lisboa;PT;Portogallo;2014;5,4
+PT18;Alentejo;PT;Portogallo;2008;2
+PT18;Alentejo;PT;Portogallo;2009;2,2
+PT18;Alentejo;PT;Portogallo;2010;1,9
+PT18;Alentejo;PT;Portogallo;2011;1,6
+PT18;Alentejo;PT;Portogallo;2012;
+PT18;Alentejo;PT;Portogallo;2013;
+PT18;Alentejo;PT;Portogallo;2014;2,1
+PT20;Região Autónoma dos Açores (PT);PT;Portogallo;2008;
+PT20;Região Autónoma dos Açores (PT);PT;Portogallo;2009;
+PT20;Região Autónoma dos Açores (PT);PT;Portogallo;2010;
+PT20;Região Autónoma dos Açores (PT);PT;Portogallo;2011;
+PT20;Região Autónoma dos Açores (PT);PT;Portogallo;2012;
+PT20;Região Autónoma dos Açores (PT);PT;Portogallo;2013;
+PT20;Região Autónoma dos Açores (PT);PT;Portogallo;2014;
+PT30;Região Autónoma da Madeira (PT);PT;Portogallo;2008;
+PT30;Região Autónoma da Madeira (PT);PT;Portogallo;2009;
+PT30;Região Autónoma da Madeira (PT);PT;Portogallo;2010;
+PT30;Região Autónoma da Madeira (PT);PT;Portogallo;2011;
+PT30;Região Autónoma da Madeira (PT);PT;Portogallo;2012;
+PT30;Região Autónoma da Madeira (PT);PT;Portogallo;2013;
+PT30;Região Autónoma da Madeira (PT);PT;Portogallo;2014;
+RO11;Nord-Vest;RO;Romania;2008;1,6
+RO11;Nord-Vest;RO;Romania;2009;1,5
+RO11;Nord-Vest;RO;Romania;2010;1,6
+RO11;Nord-Vest;RO;Romania;2011;2
+RO11;Nord-Vest;RO;Romania;2012;2,1
+RO11;Nord-Vest;RO;Romania;2013;2,4
+RO11;Nord-Vest;RO;Romania;2014;2,4
+RO12;Centru;RO;Romania;2008;1,4
+RO12;Centru;RO;Romania;2009;1,8
+RO12;Centru;RO;Romania;2010;1,7
+RO12;Centru;RO;Romania;2011;1,4
+RO12;Centru;RO;Romania;2012;1,4
+RO12;Centru;RO;Romania;2013;1,6
+RO12;Centru;RO;Romania;2014;1,9
+RO21;Nord-Est;RO;Romania;2008;1
+RO21;Nord-Est;RO;Romania;2009;1,1
+RO21;Nord-Est;RO;Romania;2010;0,7
+RO21;Nord-Est;RO;Romania;2011;0,8
+RO21;Nord-Est;RO;Romania;2012;1,1
+RO21;Nord-Est;RO;Romania;2013;1,2
+RO21;Nord-Est;RO;Romania;2014;1,2
+RO22;Sud-Est;RO;Romania;2008;0,9
+RO22;Sud-Est;RO;Romania;2009;0,9
+RO22;Sud-Est;RO;Romania;2010;0,8
+RO22;Sud-Est;RO;Romania;2011;0,9
+RO22;Sud-Est;RO;Romania;2012;0,9
+RO22;Sud-Est;RO;Romania;2013;
+RO22;Sud-Est;RO;Romania;2014;
+RO31;Sud - Muntenia;RO;Romania;2008;0,9
+RO31;Sud - Muntenia;RO;Romania;2009;0,9
+RO31;Sud - Muntenia;RO;Romania;2010;0,8
+RO31;Sud - Muntenia;RO;Romania;2011;1
+RO31;Sud - Muntenia;RO;Romania;2012;0,8
+RO31;Sud - Muntenia;RO;Romania;2013;1
+RO31;Sud - Muntenia;RO;Romania;2014;1,1
+RO32;Bucuresti - Ilfov;RO;Romania;2008;5,2
+RO32;Bucuresti - Ilfov;RO;Romania;2009;5,8
+RO32;Bucuresti - Ilfov;RO;Romania;2010;5,7
+RO32;Bucuresti - Ilfov;RO;Romania;2011;5,8
+RO32;Bucuresti - Ilfov;RO;Romania;2012;6,9
+RO32;Bucuresti - Ilfov;RO;Romania;2013;7,2
+RO32;Bucuresti - Ilfov;RO;Romania;2014;6,8
+RO41;Sud-Vest Oltenia;RO;Romania;2008;0,8
+RO41;Sud-Vest Oltenia;RO;Romania;2009;0,6
+RO41;Sud-Vest Oltenia;RO;Romania;2010;
+RO41;Sud-Vest Oltenia;RO;Romania;2011;0,7
+RO41;Sud-Vest Oltenia;RO;Romania;2012;0,7
+RO41;Sud-Vest Oltenia;RO;Romania;2013;0,8
+RO41;Sud-Vest Oltenia;RO;Romania;2014;1,2
+RO42;Vest;RO;Romania;2008;3,5
+RO42;Vest;RO;Romania;2009;3,4
+RO42;Vest;RO;Romania;2010;3,2
+RO42;Vest;RO;Romania;2011;4,3
+RO42;Vest;RO;Romania;2012;4,7
+RO42;Vest;RO;Romania;2013;5,1
+RO42;Vest;RO;Romania;2014;5,4
+SE11;Stockholm;SE;Svezia;2008;8,5
+SE11;Stockholm;SE;Svezia;2009;8,7
+SE11;Stockholm;SE;Svezia;2010;8,5
+SE11;Stockholm;SE;Svezia;2011;8,7
+SE11;Stockholm;SE;Svezia;2012;8,5
+SE11;Stockholm;SE;Svezia;2013;8,1
+SE11;Stockholm;SE;Svezia;2014;7,9
+SE12;Östra Mellansverige;SE;Svezia;2008;4,8
+SE12;Östra Mellansverige;SE;Svezia;2009;5
+SE12;Östra Mellansverige;SE;Svezia;2010;4,2
+SE12;Östra Mellansverige;SE;Svezia;2011;4,1
+SE12;Östra Mellansverige;SE;Svezia;2012;4,2
+SE12;Östra Mellansverige;SE;Svezia;2013;4,5
+SE12;Östra Mellansverige;SE;Svezia;2014;4,6
+SE21;Småland med öarna;SE;Svezia;2008;1,8
+SE21;Småland med öarna;SE;Svezia;2009;2,2
+SE21;Småland med öarna;SE;Svezia;2010;2,4
+SE21;Småland med öarna;SE;Svezia;2011;2,2
+SE21;Småland med öarna;SE;Svezia;2012;2,3
+SE21;Småland med öarna;SE;Svezia;2013;2,1
+SE21;Småland med öarna;SE;Svezia;2014;2
+SE22;Sydsverige;SE;Svezia;2008;4,6
+SE22;Sydsverige;SE;Svezia;2009;4,5
+SE22;Sydsverige;SE;Svezia;2010;4,9
+SE22;Sydsverige;SE;Svezia;2011;5,3
+SE22;Sydsverige;SE;Svezia;2012;5,5
+SE22;Sydsverige;SE;Svezia;2013;5,2
+SE22;Sydsverige;SE;Svezia;2014;4,6
+SE23;Västsverige;SE;Svezia;2008;4,3
+SE23;Västsverige;SE;Svezia;2009;4,3
+SE23;Västsverige;SE;Svezia;2010;3,8
+SE23;Västsverige;SE;Svezia;2011;3,8
+SE23;Västsverige;SE;Svezia;2012;4
+SE23;Västsverige;SE;Svezia;2013;4,1
+SE23;Västsverige;SE;Svezia;2014;4,1
+SE31;Norra Mellansverige;SE;Svezia;2008;2,1
+SE31;Norra Mellansverige;SE;Svezia;2009;2,2
+SE31;Norra Mellansverige;SE;Svezia;2010;2
+SE31;Norra Mellansverige;SE;Svezia;2011;1,9
+SE31;Norra Mellansverige;SE;Svezia;2012;2,3
+SE31;Norra Mellansverige;SE;Svezia;2013;2,4
+SE31;Norra Mellansverige;SE;Svezia;2014;2,8
+SE32;Mellersta Norrland;SE;Svezia;2008;3,5
+SE32;Mellersta Norrland;SE;Svezia;2009;3,7
+SE32;Mellersta Norrland;SE;Svezia;2010;3,4
+SE32;Mellersta Norrland;SE;Svezia;2011;3,4
+SE32;Mellersta Norrland;SE;Svezia;2012;3,6
+SE32;Mellersta Norrland;SE;Svezia;2013;3,3
+SE32;Mellersta Norrland;SE;Svezia;2014;3,5
+SE33;Övre Norrland;SE;Svezia;2008;3,1
+SE33;Övre Norrland;SE;Svezia;2009;3,2
+SE33;Övre Norrland;SE;Svezia;2010;3,5
+SE33;Övre Norrland;SE;Svezia;2011;3,3
+SE33;Övre Norrland;SE;Svezia;2012;2,9
+SE33;Övre Norrland;SE;Svezia;2013;2,6
+SE33;Övre Norrland;SE;Svezia;2014;3
+SI01;Vzhodna Slovenija (NUTS 2010);SI;Slovenia;2008;3
+SI01;Vzhodna Slovenija (NUTS 2010);SI;Slovenia;2009;3,1
+SI01;Vzhodna Slovenija (NUTS 2010);SI;Slovenia;2010;3,6
+SI01;Vzhodna Slovenija (NUTS 2010);SI;Slovenia;2011;3,5
+SI01;Vzhodna Slovenija (NUTS 2010);SI;Slovenia;2012;3
+SI01;Vzhodna Slovenija (NUTS 2010);SI;Slovenia;2013;3,7
+SI01;Vzhodna Slovenija (NUTS 2010);SI;Slovenia;2014;3,7
+SI02;Zahodna Slovenija (NUTS 2010);SI;Slovenia;2008;6,1
+SI02;Zahodna Slovenija (NUTS 2010);SI;Slovenia;2009;6,7
+SI02;Zahodna Slovenija (NUTS 2010);SI;Slovenia;2010;6,6
+SI02;Zahodna Slovenija (NUTS 2010);SI;Slovenia;2011;6,5
+SI02;Zahodna Slovenija (NUTS 2010);SI;Slovenia;2012;6,5
+SI02;Zahodna Slovenija (NUTS 2010);SI;Slovenia;2013;6,4
+SI02;Zahodna Slovenija (NUTS 2010);SI;Slovenia;2014;6,7
+SK01;Bratislavský kraj;SK;Slovacchia;2008;5,7
+SK01;Bratislavský kraj;SK;Slovacchia;2009;6,4
+SK01;Bratislavský kraj;SK;Slovacchia;2010;7,1
+SK01;Bratislavský kraj;SK;Slovacchia;2011;7,8
+SK01;Bratislavský kraj;SK;Slovacchia;2012;8,6
+SK01;Bratislavský kraj;SK;Slovacchia;2013;8,1
+SK01;Bratislavský kraj;SK;Slovacchia;2014;8,7
+SK02;Západné Slovensko;SK;Slovacchia;2008;3,6
+SK02;Západné Slovensko;SK;Slovacchia;2009;3,6
+SK02;Západné Slovensko;SK;Slovacchia;2010;4,1
+SK02;Západné Slovensko;SK;Slovacchia;2011;4,4
+SK02;Západné Slovensko;SK;Slovacchia;2012;3,9
+SK02;Západné Slovensko;SK;Slovacchia;2013;3,7
+SK02;Západné Slovensko;SK;Slovacchia;2014;3,3
+SK03;Stredné Slovensko;SK;Slovacchia;2008;3,3
+SK03;Stredné Slovensko;SK;Slovacchia;2009;3,1
+SK03;Stredné Slovensko;SK;Slovacchia;2010;2,7
+SK03;Stredné Slovensko;SK;Slovacchia;2011;2,4
+SK03;Stredné Slovensko;SK;Slovacchia;2012;3
+SK03;Stredné Slovensko;SK;Slovacchia;2013;2,4
+SK03;Stredné Slovensko;SK;Slovacchia;2014;2,7
+SK04;Východné Slovensko;SK;Slovacchia;2008;2,8
+SK04;Východné Slovensko;SK;Slovacchia;2009;2,1
+SK04;Východné Slovensko;SK;Slovacchia;2010;2,7
+SK04;Východné Slovensko;SK;Slovacchia;2011;3,1
+SK04;Východné Slovensko;SK;Slovacchia;2012;2,6
+SK04;Východné Slovensko;SK;Slovacchia;2013;2,4
+SK04;Východné Slovensko;SK;Slovacchia;2014;2,8
+UKC1;Tees Valley and Durham;UK;RegnoUnito;2008;3,5
+UKC1;Tees Valley and Durham;UK;RegnoUnito;2009;2,5
+UKC1;Tees Valley and Durham;UK;RegnoUnito;2010;2,3
+UKC1;Tees Valley and Durham;UK;RegnoUnito;2011;2,7
+UKC1;Tees Valley and Durham;UK;RegnoUnito;2012;
+UKC1;Tees Valley and Durham;UK;RegnoUnito;2013;3,7
+UKC1;Tees Valley and Durham;UK;RegnoUnito;2014;2,7
+UKC2;Northumberland and Tyne and Wear;UK;RegnoUnito;2008;4,3
+UKC2;Northumberland and Tyne and Wear;UK;RegnoUnito;2009;4
+UKC2;Northumberland and Tyne and Wear;UK;RegnoUnito;2010;3,7
+UKC2;Northumberland and Tyne and Wear;UK;RegnoUnito;2011;3,7
+UKC2;Northumberland and Tyne and Wear;UK;RegnoUnito;2012;3,4
+UKC2;Northumberland and Tyne and Wear;UK;RegnoUnito;2013;3,2
+UKC2;Northumberland and Tyne and Wear;UK;RegnoUnito;2014;4,2
+UKD1;Cumbria;UK;RegnoUnito;2008;
+UKD1;Cumbria;UK;RegnoUnito;2009;
+UKD1;Cumbria;UK;RegnoUnito;2010;
+UKD1;Cumbria;UK;RegnoUnito;2011;
+UKD1;Cumbria;UK;RegnoUnito;2012;
+UKD1;Cumbria;UK;RegnoUnito;2013;
+UKD1;Cumbria;UK;RegnoUnito;2014;
+UKD3;Greater Manchester;UK;RegnoUnito;2008;3,6
+UKD3;Greater Manchester;UK;RegnoUnito;2009;3,6
+UKD3;Greater Manchester;UK;RegnoUnito;2010;3,3
+UKD3;Greater Manchester;UK;RegnoUnito;2011;4,4
+UKD3;Greater Manchester;UK;RegnoUnito;2012;3,8
+UKD3;Greater Manchester;UK;RegnoUnito;2013;4,9
+UKD3;Greater Manchester;UK;RegnoUnito;2014;4,6
+UKD4;Lancashire;UK;RegnoUnito;2008;2,3
+UKD4;Lancashire;UK;RegnoUnito;2009;3,1
+UKD4;Lancashire;UK;RegnoUnito;2010;3,2
+UKD4;Lancashire;UK;RegnoUnito;2011;2,7
+UKD4;Lancashire;UK;RegnoUnito;2012;3,7
+UKD4;Lancashire;UK;RegnoUnito;2013;2,2
+UKD4;Lancashire;UK;RegnoUnito;2014;2,8
+UKD6;Cheshire;UK;RegnoUnito;2008;6,1
+UKD6;Cheshire;UK;RegnoUnito;2009;4,6
+UKD6;Cheshire;UK;RegnoUnito;2010;5,4
+UKD6;Cheshire;UK;RegnoUnito;2011;5,9
+UKD6;Cheshire;UK;RegnoUnito;2012;7,9
+UKD6;Cheshire;UK;RegnoUnito;2013;8,3
+UKD6;Cheshire;UK;RegnoUnito;2014;6,9
+UKD7;Merseyside;UK;RegnoUnito;2008;3,6
+UKD7;Merseyside;UK;RegnoUnito;2009;2,7
+UKD7;Merseyside;UK;RegnoUnito;2010;2,6
+UKD7;Merseyside;UK;RegnoUnito;2011;2,7
+UKD7;Merseyside;UK;RegnoUnito;2012;3,9
+UKD7;Merseyside;UK;RegnoUnito;2013;3,6
+UKD7;Merseyside;UK;RegnoUnito;2014;5,5
+UKE1;East Yorkshire and Northern Lincolnshire;UK;RegnoUnito;2008;
+UKE1;East Yorkshire and Northern Lincolnshire;UK;RegnoUnito;2009;
+UKE1;East Yorkshire and Northern Lincolnshire;UK;RegnoUnito;2010;2,4
+UKE1;East Yorkshire and Northern Lincolnshire;UK;RegnoUnito;2011;
+UKE1;East Yorkshire and Northern Lincolnshire;UK;RegnoUnito;2012;2,8
+UKE1;East Yorkshire and Northern Lincolnshire;UK;RegnoUnito;2013;
+UKE1;East Yorkshire and Northern Lincolnshire;UK;RegnoUnito;2014;
+UKE2;North Yorkshire;UK;RegnoUnito;2008;3,2
+UKE2;North Yorkshire;UK;RegnoUnito;2009;
+UKE2;North Yorkshire;UK;RegnoUnito;2010;
+UKE2;North Yorkshire;UK;RegnoUnito;2011;2,8
+UKE2;North Yorkshire;UK;RegnoUnito;2012;2,9
+UKE2;North Yorkshire;UK;RegnoUnito;2013;
+UKE2;North Yorkshire;UK;RegnoUnito;2014;3,3
+UKE3;South Yorkshire;UK;RegnoUnito;2008;3,5
+UKE3;South Yorkshire;UK;RegnoUnito;2009;
+UKE3;South Yorkshire;UK;RegnoUnito;2010;1,9
+UKE3;South Yorkshire;UK;RegnoUnito;2011;3,3
+UKE3;South Yorkshire;UK;RegnoUnito;2012;3,5
+UKE3;South Yorkshire;UK;RegnoUnito;2013;2,7
+UKE3;South Yorkshire;UK;RegnoUnito;2014;2,4
+UKE4;West Yorkshire;UK;RegnoUnito;2008;2,5
+UKE4;West Yorkshire;UK;RegnoUnito;2009;2,7
+UKE4;West Yorkshire;UK;RegnoUnito;2010;2,6
+UKE4;West Yorkshire;UK;RegnoUnito;2011;2,7
+UKE4;West Yorkshire;UK;RegnoUnito;2012;3,1
+UKE4;West Yorkshire;UK;RegnoUnito;2013;3,4
+UKE4;West Yorkshire;UK;RegnoUnito;2014;3,4
+UKF1;Derbyshire and Nottinghamshire;UK;RegnoUnito;2008;4,2
+UKF1;Derbyshire and Nottinghamshire;UK;RegnoUnito;2009;2,6
+UKF1;Derbyshire and Nottinghamshire;UK;RegnoUnito;2010;3,8
+UKF1;Derbyshire and Nottinghamshire;UK;RegnoUnito;2011;3,4
+UKF1;Derbyshire and Nottinghamshire;UK;RegnoUnito;2012;3,9
+UKF1;Derbyshire and Nottinghamshire;UK;RegnoUnito;2013;4,1
+UKF1;Derbyshire and Nottinghamshire;UK;RegnoUnito;2014;4,2
+UKF2;Leicestershire, Rutland and Northamptonshire;UK;RegnoUnito;2008;3,8
+UKF2;Leicestershire, Rutland and Northamptonshire;UK;RegnoUnito;2009;3,2
+UKF2;Leicestershire, Rutland and Northamptonshire;UK;RegnoUnito;2010;4,2
+UKF2;Leicestershire, Rutland and Northamptonshire;UK;RegnoUnito;2011;4
+UKF2;Leicestershire, Rutland and Northamptonshire;UK;RegnoUnito;2012;2,8
+UKF2;Leicestershire, Rutland and Northamptonshire;UK;RegnoUnito;2013;3,6
+UKF2;Leicestershire, Rutland and Northamptonshire;UK;RegnoUnito;2014;4,2
+UKF3;Lincolnshire;UK;RegnoUnito;2008;
+UKF3;Lincolnshire;UK;RegnoUnito;2009;
+UKF3;Lincolnshire;UK;RegnoUnito;2010;
+UKF3;Lincolnshire;UK;RegnoUnito;2011;
+UKF3;Lincolnshire;UK;RegnoUnito;2012;
+UKF3;Lincolnshire;UK;RegnoUnito;2013;
+UKF3;Lincolnshire;UK;RegnoUnito;2014;
+UKG1;Herefordshire, Worcestershire and Warwickshire;UK;RegnoUnito;2008;3,8
+UKG1;Herefordshire, Worcestershire and Warwickshire;UK;RegnoUnito;2009;2,9
+UKG1;Herefordshire, Worcestershire and Warwickshire;UK;RegnoUnito;2010;2,7
+UKG1;Herefordshire, Worcestershire and Warwickshire;UK;RegnoUnito;2011;3,5
+UKG1;Herefordshire, Worcestershire and Warwickshire;UK;RegnoUnito;2012;4,4
+UKG1;Herefordshire, Worcestershire and Warwickshire;UK;RegnoUnito;2013;4,8
+UKG1;Herefordshire, Worcestershire and Warwickshire;UK;RegnoUnito;2014;5,1
+UKG2;Shropshire and Staffordshire;UK;RegnoUnito;2008;4,1
+UKG2;Shropshire and Staffordshire;UK;RegnoUnito;2009;3
+UKG2;Shropshire and Staffordshire;UK;RegnoUnito;2010;2,9
+UKG2;Shropshire and Staffordshire;UK;RegnoUnito;2011;3,5
+UKG2;Shropshire and Staffordshire;UK;RegnoUnito;2012;3,8
+UKG2;Shropshire and Staffordshire;UK;RegnoUnito;2013;3,4
+UKG2;Shropshire and Staffordshire;UK;RegnoUnito;2014;3,1
+UKG3;West Midlands;UK;RegnoUnito;2008;3,4
+UKG3;West Midlands;UK;RegnoUnito;2009;2,8
+UKG3;West Midlands;UK;RegnoUnito;2010;2,6
+UKG3;West Midlands;UK;RegnoUnito;2011;2,8
+UKG3;West Midlands;UK;RegnoUnito;2012;2,8
+UKG3;West Midlands;UK;RegnoUnito;2013;3,2
+UKG3;West Midlands;UK;RegnoUnito;2014;3,7
+UKH1;East Anglia;UK;RegnoUnito;2008;5
+UKH1;East Anglia;UK;RegnoUnito;2009;5,8
+UKH1;East Anglia;UK;RegnoUnito;2010;4,7
+UKH1;East Anglia;UK;RegnoUnito;2011;4,2
+UKH1;East Anglia;UK;RegnoUnito;2012;5,4
+UKH1;East Anglia;UK;RegnoUnito;2013;4,4
+UKH1;East Anglia;UK;RegnoUnito;2014;4,9
+UKH2;Bedfordshire and Hertfordshire;UK;RegnoUnito;2008;9,1
+UKH2;Bedfordshire and Hertfordshire;UK;RegnoUnito;2009;7,9
+UKH2;Bedfordshire and Hertfordshire;UK;RegnoUnito;2010;7,3
+UKH2;Bedfordshire and Hertfordshire;UK;RegnoUnito;2011;7,7
+UKH2;Bedfordshire and Hertfordshire;UK;RegnoUnito;2012;7,5
+UKH2;Bedfordshire and Hertfordshire;UK;RegnoUnito;2013;7
+UKH2;Bedfordshire and Hertfordshire;UK;RegnoUnito;2014;6,5
+UKH3;Essex;UK;RegnoUnito;2008;4,1
+UKH3;Essex;UK;RegnoUnito;2009;3,3
+UKH3;Essex;UK;RegnoUnito;2010;3,7
+UKH3;Essex;UK;RegnoUnito;2011;3,7
+UKH3;Essex;UK;RegnoUnito;2012;4
+UKH3;Essex;UK;RegnoUnito;2013;4
+UKH3;Essex;UK;RegnoUnito;2014;2,7
+UKI1;Inner London (NUTS 2010);UK;RegnoUnito;2008;7
+UKI1;Inner London (NUTS 2010);UK;RegnoUnito;2009;5
+UKI1;Inner London (NUTS 2010);UK;RegnoUnito;2010;6,3
+UKI1;Inner London (NUTS 2010);UK;RegnoUnito;2011;6,7
+UKI1;Inner London (NUTS 2010);UK;RegnoUnito;2012;6,4
+UKI1;Inner London (NUTS 2010);UK;RegnoUnito;2013;6,9
+UKI1;Inner London (NUTS 2010);UK;RegnoUnito;2014;8,1
+UKI2;Outer London (NUTS 2010);UK;RegnoUnito;2008;6,4
+UKI2;Outer London (NUTS 2010);UK;RegnoUnito;2009;5,8
+UKI2;Outer London (NUTS 2010);UK;RegnoUnito;2010;5,5
+UKI2;Outer London (NUTS 2010);UK;RegnoUnito;2011;6,3
+UKI2;Outer London (NUTS 2010);UK;RegnoUnito;2012;6,5
+UKI2;Outer London (NUTS 2010);UK;RegnoUnito;2013;6,1
+UKI2;Outer London (NUTS 2010);UK;RegnoUnito;2014;5,4
+UKJ1;Berkshire, Buckinghamshire and Oxfordshire;UK;RegnoUnito;2008;11,7
+UKJ1;Berkshire, Buckinghamshire and Oxfordshire;UK;RegnoUnito;2009;10
+UKJ1;Berkshire, Buckinghamshire and Oxfordshire;UK;RegnoUnito;2010;9,7
+UKJ1;Berkshire, Buckinghamshire and Oxfordshire;UK;RegnoUnito;2011;10,5
+UKJ1;Berkshire, Buckinghamshire and Oxfordshire;UK;RegnoUnito;2012;9,6
+UKJ1;Berkshire, Buckinghamshire and Oxfordshire;UK;RegnoUnito;2013;10,8
+UKJ1;Berkshire, Buckinghamshire and Oxfordshire;UK;RegnoUnito;2014;10,8
+UKJ2;Surrey, East and West Sussex;UK;RegnoUnito;2008;6,6
+UKJ2;Surrey, East and West Sussex;UK;RegnoUnito;2009;6,5
+UKJ2;Surrey, East and West Sussex;UK;RegnoUnito;2010;4,9
+UKJ2;Surrey, East and West Sussex;UK;RegnoUnito;2011;6,1
+UKJ2;Surrey, East and West Sussex;UK;RegnoUnito;2012;7,4
+UKJ2;Surrey, East and West Sussex;UK;RegnoUnito;2013;6,8
+UKJ2;Surrey, East and West Sussex;UK;RegnoUnito;2014;5,8
+UKJ3;Hampshire and Isle of Wight;UK;RegnoUnito;2008;7,3
+UKJ3;Hampshire and Isle of Wight;UK;RegnoUnito;2009;5,5
+UKJ3;Hampshire and Isle of Wight;UK;RegnoUnito;2010;5,5
+UKJ3;Hampshire and Isle of Wight;UK;RegnoUnito;2011;6,8
+UKJ3;Hampshire and Isle of Wight;UK;RegnoUnito;2012;5,3
+UKJ3;Hampshire and Isle of Wight;UK;RegnoUnito;2013;4,8
+UKJ3;Hampshire and Isle of Wight;UK;RegnoUnito;2014;7,2
+UKJ4;Kent;UK;RegnoUnito;2008;3,5
+UKJ4;Kent;UK;RegnoUnito;2009;4
+UKJ4;Kent;UK;RegnoUnito;2010;2,9
+UKJ4;Kent;UK;RegnoUnito;2011;3,7
+UKJ4;Kent;UK;RegnoUnito;2012;2,9
+UKJ4;Kent;UK;RegnoUnito;2013;3,4
+UKJ4;Kent;UK;RegnoUnito;2014;4,4
+UKK1;Gloucestershire, Wiltshire and Bristol/Bath area;UK;RegnoUnito;2008;5
+UKK1;Gloucestershire, Wiltshire and Bristol/Bath area;UK;RegnoUnito;2009;6,3
+UKK1;Gloucestershire, Wiltshire and Bristol/Bath area;UK;RegnoUnito;2010;6
+UKK1;Gloucestershire, Wiltshire and Bristol/Bath area;UK;RegnoUnito;2011;5,2
+UKK1;Gloucestershire, Wiltshire and Bristol/Bath area;UK;RegnoUnito;2012;5
+UKK1;Gloucestershire, Wiltshire and Bristol/Bath area;UK;RegnoUnito;2013;6,5
+UKK1;Gloucestershire, Wiltshire and Bristol/Bath area;UK;RegnoUnito;2014;6,2
+UKK2;Dorset and Somerset;UK;RegnoUnito;2008;3,8
+UKK2;Dorset and Somerset;UK;RegnoUnito;2009;3,5
+UKK2;Dorset and Somerset;UK;RegnoUnito;2010;3,2
+UKK2;Dorset and Somerset;UK;RegnoUnito;2011;2,9
+UKK2;Dorset and Somerset;UK;RegnoUnito;2012;2,7
+UKK2;Dorset and Somerset;UK;RegnoUnito;2013;4,3
+UKK2;Dorset and Somerset;UK;RegnoUnito;2014;3,4
+UKK3;Cornwall and Isles of Scilly;UK;RegnoUnito;2008;
+UKK3;Cornwall and Isles of Scilly;UK;RegnoUnito;2009;
+UKK3;Cornwall and Isles of Scilly;UK;RegnoUnito;2010;
+UKK3;Cornwall and Isles of Scilly;UK;RegnoUnito;2011;
+UKK3;Cornwall and Isles of Scilly;UK;RegnoUnito;2012;
+UKK3;Cornwall and Isles of Scilly;UK;RegnoUnito;2013;
+UKK3;Cornwall and Isles of Scilly;UK;RegnoUnito;2014;
+UKK4;Devon;UK;RegnoUnito;2008;3,4
+UKK4;Devon;UK;RegnoUnito;2009;2,9
+UKK4;Devon;UK;RegnoUnito;2010;3,9
+UKK4;Devon;UK;RegnoUnito;2011;2,1
+UKK4;Devon;UK;RegnoUnito;2012;2,8
+UKK4;Devon;UK;RegnoUnito;2013;2,6
+UKK4;Devon;UK;RegnoUnito;2014;4,3
+UKL1;West Wales and The Valleys;UK;RegnoUnito;2008;3,3
+UKL1;West Wales and The Valleys;UK;RegnoUnito;2009;2,1
+UKL1;West Wales and The Valleys;UK;RegnoUnito;2010;1,9
+UKL1;West Wales and The Valleys;UK;RegnoUnito;2011;2,2
+UKL1;West Wales and The Valleys;UK;RegnoUnito;2012;2,3
+UKL1;West Wales and The Valleys;UK;RegnoUnito;2013;3,1
+UKL1;West Wales and The Valleys;UK;RegnoUnito;2014;2,4
+UKL2;East Wales;UK;RegnoUnito;2008;2,5
+UKL2;East Wales;UK;RegnoUnito;2009;3
+UKL2;East Wales;UK;RegnoUnito;2010;3,2
+UKL2;East Wales;UK;RegnoUnito;2011;4,6
+UKL2;East Wales;UK;RegnoUnito;2012;3,6
+UKL2;East Wales;UK;RegnoUnito;2013;3,9
+UKL2;East Wales;UK;RegnoUnito;2014;3,5
+UKM2;Eastern Scotland;UK;RegnoUnito;2008;5,2
+UKM2;Eastern Scotland;UK;RegnoUnito;2009;3,2
+UKM2;Eastern Scotland;UK;RegnoUnito;2010;4
+UKM2;Eastern Scotland;UK;RegnoUnito;2011;3,5
+UKM2;Eastern Scotland;UK;RegnoUnito;2012;5
+UKM2;Eastern Scotland;UK;RegnoUnito;2013;2,8
+UKM2;Eastern Scotland;UK;RegnoUnito;2014;4,6
+UKM3;South Western Scotland;UK;RegnoUnito;2008;3,6
+UKM3;South Western Scotland;UK;RegnoUnito;2009;3,6
+UKM3;South Western Scotland;UK;RegnoUnito;2010;4,3
+UKM3;South Western Scotland;UK;RegnoUnito;2011;3,1
+UKM3;South Western Scotland;UK;RegnoUnito;2012;3,4
+UKM3;South Western Scotland;UK;RegnoUnito;2013;2,1
+UKM3;South Western Scotland;UK;RegnoUnito;2014;3,4
+UKM5;North Eastern Scotland;UK;RegnoUnito;2008;
+UKM5;North Eastern Scotland;UK;RegnoUnito;2009;
+UKM5;North Eastern Scotland;UK;RegnoUnito;2010;
+UKM5;North Eastern Scotland;UK;RegnoUnito;2011;
+UKM5;North Eastern Scotland;UK;RegnoUnito;2012;
+UKM5;North Eastern Scotland;UK;RegnoUnito;2013;
+UKM5;North Eastern Scotland;UK;RegnoUnito;2014;
+UKM6;Highlands and Islands;UK;RegnoUnito;2008;
+UKM6;Highlands and Islands;UK;RegnoUnito;2009;
+UKM6;Highlands and Islands;UK;RegnoUnito;2010;
+UKM6;Highlands and Islands;UK;RegnoUnito;2011;
+UKM6;Highlands and Islands;UK;RegnoUnito;2012;
+UKM6;Highlands and Islands;UK;RegnoUnito;2013;
+UKM6;Highlands and Islands;UK;RegnoUnito;2014;
+UKN0;Northern Ireland (UK);UK;RegnoUnito;2008;4,2
+UKN0;Northern Ireland (UK);UK;RegnoUnito;2009;2,9
+UKN0;Northern Ireland (UK);UK;RegnoUnito;2010;3,7
+UKN0;Northern Ireland (UK);UK;RegnoUnito;2011;3,5
+UKN0;Northern Ireland (UK);UK;RegnoUnito;2012;2,9
+UKN0;Northern Ireland (UK);UK;RegnoUnito;2013;3
+UKN0;Northern Ireland (UK);UK;RegnoUnito;2014;2,9
